@@ -22124,5 +22124,18 @@
     "start_date_local": "2026-02-17T17:26:26Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-02-18",
+    "distance": 9646.3,
+    "elevation_gain": 0.0,
+    "id": "17442622744",
+    "moving_time": 2519.0,
+    "name": "2x20:00/2:00r row",
+    "raw_activity_type": "Rowing",
+    "raw_type": "Rowing",
+    "start_date_local": "2026-02-18T18:24:00Z",
+    "type": "Rowing",
+    "year": 2026
   }
 ]
