@@ -22163,5 +22163,18 @@
     "start_date_local": "2026-02-20T10:23:07Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-02-20",
+    "distance": 32501.6,
+    "elevation_gain": 91.6,
+    "id": "17464325920",
+    "moving_time": 3624.0,
+    "name": "Zone 2 Endurance 30min",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-02-20T18:32:40Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
