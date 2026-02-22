@@ -22176,5 +22176,44 @@
     "start_date_local": "2026-02-20T18:32:40Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-02-21",
+    "distance": 70243.1,
+    "elevation_gain": 404.6,
+    "id": "17473885086",
+    "moving_time": 7814.0,
+    "name": "CMI4 - Mixed Intervals",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-02-21T13:47:06Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-02-21",
+    "distance": 8164.0,
+    "elevation_gain": 18.9,
+    "id": "17475391977",
+    "moving_time": 3602.0,
+    "name": "Afternoon Row",
+    "raw_activity_type": "Rowing",
+    "raw_type": "Rowing",
+    "start_date_local": "2026-02-21T17:01:12Z",
+    "type": "Rowing",
+    "year": 2026
+  },
+  {
+    "date": "2026-02-22",
+    "distance": 14443.7,
+    "elevation_gain": 0.0,
+    "id": "17481749134",
+    "moving_time": 4901.0,
+    "name": "Morning Row",
+    "raw_activity_type": "Rowing",
+    "raw_type": "Rowing",
+    "start_date_local": "2026-02-22T09:33:28Z",
+    "type": "Rowing",
+    "year": 2026
   }
 ]
