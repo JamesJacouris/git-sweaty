@@ -7406,7 +7406,7 @@
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
     "start_date_local": "2023-07-24T21:44:11Z",
-    "type": "VirtualRide",
+    "type": "Ride",
     "year": 2023
   },
   {
@@ -7419,7 +7419,7 @@
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
     "start_date_local": "2023-07-24T22:17:01Z",
-    "type": "VirtualRide",
+    "type": "Ride",
     "year": 2023
   },
   {
@@ -7432,7 +7432,7 @@
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
     "start_date_local": "2023-07-25T18:25:36Z",
-    "type": "VirtualRide",
+    "type": "Ride",
     "year": 2023
   },
   {
@@ -7445,7 +7445,7 @@
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
     "start_date_local": "2023-07-25T22:06:29Z",
-    "type": "VirtualRide",
+    "type": "Ride",
     "year": 2023
   },
   {
@@ -7458,7 +7458,7 @@
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
     "start_date_local": "2023-07-25T22:38:43Z",
-    "type": "VirtualRide",
+    "type": "Ride",
     "year": 2023
   },
   {
@@ -7484,7 +7484,7 @@
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
     "start_date_local": "2023-07-26T18:52:53Z",
-    "type": "VirtualRide",
+    "type": "Ride",
     "year": 2023
   },
   {
@@ -7497,7 +7497,7 @@
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
     "start_date_local": "2023-07-27T11:34:55Z",
-    "type": "VirtualRide",
+    "type": "Ride",
     "year": 2023
   },
   {
@@ -7549,7 +7549,7 @@
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
     "start_date_local": "2023-08-01T09:35:35Z",
-    "type": "VirtualRide",
+    "type": "Ride",
     "year": 2023
   },
   {
@@ -7562,7 +7562,7 @@
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
     "start_date_local": "2023-08-01T18:43:49Z",
-    "type": "VirtualRide",
+    "type": "Ride",
     "year": 2023
   },
   {
@@ -7575,7 +7575,7 @@
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
     "start_date_local": "2023-08-03T10:29:27Z",
-    "type": "VirtualRide",
+    "type": "Ride",
     "year": 2023
   },
   {
@@ -7601,7 +7601,7 @@
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
     "start_date_local": "2023-08-05T12:15:44Z",
-    "type": "VirtualRide",
+    "type": "Ride",
     "year": 2023
   },
   {
@@ -7614,7 +7614,7 @@
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
     "start_date_local": "2023-08-05T12:52:22Z",
-    "type": "VirtualRide",
+    "type": "Ride",
     "year": 2023
   },
   {
@@ -8121,7 +8121,7 @@
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
     "start_date_local": "2023-09-18T11:23:14Z",
-    "type": "VirtualRide",
+    "type": "Ride",
     "year": 2023
   },
   {
@@ -9213,7 +9213,7 @@
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
     "start_date_local": "2023-12-12T20:29:00Z",
-    "type": "VirtualRide",
+    "type": "Ride",
     "year": 2023
   },
   {
@@ -9226,7 +9226,7 @@
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
     "start_date_local": "2023-12-13T19:14:11Z",
-    "type": "VirtualRide",
+    "type": "Ride",
     "year": 2023
   },
   {
@@ -9239,7 +9239,7 @@
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
     "start_date_local": "2023-12-13T19:22:28Z",
-    "type": "VirtualRide",
+    "type": "Ride",
     "year": 2023
   },
   {
@@ -9252,7 +9252,7 @@
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
     "start_date_local": "2023-12-14T19:11:28Z",
-    "type": "VirtualRide",
+    "type": "Ride",
     "year": 2023
   },
   {
@@ -9317,7 +9317,7 @@
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
     "start_date_local": "2023-12-25T21:07:09Z",
-    "type": "VirtualRide",
+    "type": "Ride",
     "year": 2023
   },
   {
@@ -9330,7 +9330,7 @@
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
     "start_date_local": "2023-12-26T13:01:25Z",
-    "type": "VirtualRide",
+    "type": "Ride",
     "year": 2023
   },
   {
@@ -10318,7 +10318,7 @@
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
     "start_date_local": "2024-03-25T18:11:35Z",
-    "type": "VirtualRide",
+    "type": "Ride",
     "year": 2024
   },
   {
@@ -10344,7 +10344,7 @@
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
     "start_date_local": "2024-03-26T20:23:53Z",
-    "type": "VirtualRide",
+    "type": "Ride",
     "year": 2024
   },
   {
@@ -11592,7 +11592,7 @@
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
     "start_date_local": "2024-07-13T13:25:09Z",
-    "type": "VirtualRide",
+    "type": "Ride",
     "year": 2024
   },
   {
@@ -11605,7 +11605,7 @@
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
     "start_date_local": "2024-07-13T13:53:36Z",
-    "type": "VirtualRide",
+    "type": "Ride",
     "year": 2024
   },
   {
@@ -11722,7 +11722,7 @@
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
     "start_date_local": "2024-07-24T19:58:15Z",
-    "type": "VirtualRide",
+    "type": "Ride",
     "year": 2024
   },
   {
@@ -11735,7 +11735,7 @@
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
     "start_date_local": "2024-07-25T10:35:07Z",
-    "type": "VirtualRide",
+    "type": "Ride",
     "year": 2024
   },
   {
@@ -12073,7 +12073,7 @@
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
     "start_date_local": "2024-08-13T22:08:04Z",
-    "type": "VirtualRide",
+    "type": "Ride",
     "year": 2024
   },
   {
@@ -12086,7 +12086,7 @@
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
     "start_date_local": "2024-08-13T22:13:20Z",
-    "type": "VirtualRide",
+    "type": "Ride",
     "year": 2024
   },
   {
@@ -12255,7 +12255,7 @@
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
     "start_date_local": "2024-08-31T18:36:51Z",
-    "type": "VirtualRide",
+    "type": "Ride",
     "year": 2024
   },
   {
@@ -12346,7 +12346,7 @@
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
     "start_date_local": "2024-09-07T12:17:38Z",
-    "type": "VirtualRide",
+    "type": "Ride",
     "year": 2024
   },
   {
@@ -13321,7 +13321,7 @@
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
     "start_date_local": "2024-11-05T21:25:46Z",
-    "type": "VirtualRide",
+    "type": "Ride",
     "year": 2024
   },
   {
@@ -13360,7 +13360,7 @@
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
     "start_date_local": "2024-11-07T16:31:00Z",
-    "type": "VirtualRide",
+    "type": "Ride",
     "year": 2024
   },
   {
@@ -13503,7 +13503,7 @@
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
     "start_date_local": "2024-11-18T10:36:00Z",
-    "type": "VirtualRide",
+    "type": "Ride",
     "year": 2024
   },
   {
@@ -13529,7 +13529,7 @@
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
     "start_date_local": "2024-11-20T17:52:54Z",
-    "type": "VirtualRide",
+    "type": "Ride",
     "year": 2024
   },
   {
@@ -13542,7 +13542,7 @@
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
     "start_date_local": "2024-11-21T16:18:13Z",
-    "type": "VirtualRide",
+    "type": "Ride",
     "year": 2024
   },
   {
@@ -13581,7 +13581,7 @@
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
     "start_date_local": "2024-11-23T13:47:42Z",
-    "type": "VirtualRide",
+    "type": "Ride",
     "year": 2024
   },
   {
@@ -13594,7 +13594,7 @@
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
     "start_date_local": "2024-11-25T10:41:51Z",
-    "type": "VirtualRide",
+    "type": "Ride",
     "year": 2024
   },
   {
@@ -13620,7 +13620,7 @@
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
     "start_date_local": "2024-11-26T17:21:42Z",
-    "type": "VirtualRide",
+    "type": "Ride",
     "year": 2024
   },
   {
@@ -13633,7 +13633,7 @@
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
     "start_date_local": "2024-11-27T18:32:21Z",
-    "type": "VirtualRide",
+    "type": "Ride",
     "year": 2024
   },
   {
@@ -13711,7 +13711,7 @@
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
     "start_date_local": "2024-12-08T18:20:53Z",
-    "type": "VirtualRide",
+    "type": "Ride",
     "year": 2024
   },
   {
@@ -13906,7 +13906,7 @@
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
     "start_date_local": "2024-12-21T20:18:42Z",
-    "type": "VirtualRide",
+    "type": "Ride",
     "year": 2024
   },
   {
@@ -15778,7 +15778,7 @@
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
     "start_date_local": "2025-04-09T16:53:01Z",
-    "type": "VirtualRide",
+    "type": "Ride",
     "year": 2025
   },
   {
@@ -15804,7 +15804,7 @@
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
     "start_date_local": "2025-04-11T13:38:28Z",
-    "type": "VirtualRide",
+    "type": "Ride",
     "year": 2025
   },
   {
@@ -15856,7 +15856,7 @@
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
     "start_date_local": "2025-04-15T11:24:14Z",
-    "type": "VirtualRide",
+    "type": "Ride",
     "year": 2025
   },
   {
@@ -15921,7 +15921,7 @@
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
     "start_date_local": "2025-04-17T19:21:48Z",
-    "type": "VirtualRide",
+    "type": "Ride",
     "year": 2025
   },
   {
@@ -15934,7 +15934,7 @@
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
     "start_date_local": "2025-04-18T12:26:10Z",
-    "type": "VirtualRide",
+    "type": "Ride",
     "year": 2025
   },
   {
@@ -15947,7 +15947,7 @@
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
     "start_date_local": "2025-04-19T18:37:30Z",
-    "type": "VirtualRide",
+    "type": "Ride",
     "year": 2025
   },
   {
@@ -15973,7 +15973,7 @@
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
     "start_date_local": "2025-04-21T12:55:10Z",
-    "type": "VirtualRide",
+    "type": "Ride",
     "year": 2025
   },
   {
@@ -16012,7 +16012,7 @@
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
     "start_date_local": "2025-04-22T16:35:03Z",
-    "type": "VirtualRide",
+    "type": "Ride",
     "year": 2025
   },
   {
@@ -16038,7 +16038,7 @@
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
     "start_date_local": "2025-04-24T09:35:01Z",
-    "type": "VirtualRide",
+    "type": "Ride",
     "year": 2025
   },
   {
@@ -16103,7 +16103,7 @@
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
     "start_date_local": "2025-04-26T18:01:41Z",
-    "type": "VirtualRide",
+    "type": "Ride",
     "year": 2025
   },
   {
@@ -16155,7 +16155,7 @@
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
     "start_date_local": "2025-04-29T17:32:14Z",
-    "type": "VirtualRide",
+    "type": "Ride",
     "year": 2025
   },
   {
@@ -16181,7 +16181,7 @@
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
     "start_date_local": "2025-05-01T17:21:26Z",
-    "type": "VirtualRide",
+    "type": "Ride",
     "year": 2025
   },
   {
@@ -16220,7 +16220,7 @@
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
     "start_date_local": "2025-05-03T18:48:26Z",
-    "type": "VirtualRide",
+    "type": "Ride",
     "year": 2025
   },
   {
@@ -16259,7 +16259,7 @@
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
     "start_date_local": "2025-05-06T17:40:14Z",
-    "type": "VirtualRide",
+    "type": "Ride",
     "year": 2025
   },
   {
@@ -16285,7 +16285,7 @@
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
     "start_date_local": "2025-05-08T08:31:59Z",
-    "type": "VirtualRide",
+    "type": "Ride",
     "year": 2025
   },
   {
@@ -16298,7 +16298,7 @@
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
     "start_date_local": "2025-05-08T16:55:25Z",
-    "type": "VirtualRide",
+    "type": "Ride",
     "year": 2025
   },
   {
@@ -16402,7 +16402,7 @@
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
     "start_date_local": "2025-05-14T19:30:55Z",
-    "type": "VirtualRide",
+    "type": "Ride",
     "year": 2025
   },
   {
@@ -16558,7 +16558,7 @@
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
     "start_date_local": "2025-05-21T19:14:12Z",
-    "type": "VirtualRide",
+    "type": "Ride",
     "year": 2025
   },
   {
@@ -16571,7 +16571,7 @@
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
     "start_date_local": "2025-05-22T17:23:20Z",
-    "type": "VirtualRide",
+    "type": "Ride",
     "year": 2025
   },
   {
@@ -16649,7 +16649,7 @@
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
     "start_date_local": "2025-05-24T16:08:52Z",
-    "type": "VirtualRide",
+    "type": "Ride",
     "year": 2025
   },
   {
@@ -16688,7 +16688,7 @@
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
     "start_date_local": "2025-05-27T18:18:06Z",
-    "type": "VirtualRide",
+    "type": "Ride",
     "year": 2025
   },
   {
@@ -16714,7 +16714,7 @@
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
     "start_date_local": "2025-05-29T18:33:59Z",
-    "type": "VirtualRide",
+    "type": "Ride",
     "year": 2025
   },
   {
@@ -16753,7 +16753,7 @@
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
     "start_date_local": "2025-05-31T15:51:47Z",
-    "type": "VirtualRide",
+    "type": "Ride",
     "year": 2025
   },
   {
@@ -17143,7 +17143,7 @@
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
     "start_date_local": "2025-06-28T12:03:40Z",
-    "type": "VirtualRide",
+    "type": "Ride",
     "year": 2025
   },
   {
@@ -17234,7 +17234,7 @@
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
     "start_date_local": "2025-07-02T05:50:12Z",
-    "type": "VirtualRide",
+    "type": "Ride",
     "year": 2025
   },
   {
@@ -17312,7 +17312,7 @@
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
     "start_date_local": "2025-07-06T18:55:42Z",
-    "type": "VirtualRide",
+    "type": "Ride",
     "year": 2025
   },
   {
@@ -17676,7 +17676,7 @@
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
     "start_date_local": "2025-07-30T18:27:55Z",
-    "type": "VirtualRide",
+    "type": "Ride",
     "year": 2025
   },
   {
@@ -17871,7 +17871,7 @@
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
     "start_date_local": "2025-08-10T12:19:50Z",
-    "type": "VirtualRide",
+    "type": "Ride",
     "year": 2025
   },
   {
@@ -17975,7 +17975,7 @@
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
     "start_date_local": "2025-08-20T10:30:19Z",
-    "type": "VirtualRide",
+    "type": "Ride",
     "year": 2025
   },
   {
@@ -18131,7 +18131,7 @@
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
     "start_date_local": "2025-08-29T12:06:16Z",
-    "type": "VirtualRide",
+    "type": "Ride",
     "year": 2025
   },
   {
@@ -18157,7 +18157,7 @@
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
     "start_date_local": "2025-08-31T10:32:19Z",
-    "type": "VirtualRide",
+    "type": "Ride",
     "year": 2025
   },
   {
@@ -18573,7 +18573,7 @@
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
     "start_date_local": "2025-09-25T18:44:18Z",
-    "type": "VirtualRide",
+    "type": "Ride",
     "year": 2025
   },
   {
@@ -18625,7 +18625,7 @@
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
     "start_date_local": "2025-09-27T16:29:08Z",
-    "type": "VirtualRide",
+    "type": "Ride",
     "year": 2025
   },
   {
@@ -18989,7 +18989,7 @@
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
     "start_date_local": "2025-10-08T13:56:44Z",
-    "type": "VirtualRide",
+    "type": "Ride",
     "year": 2025
   },
   {
@@ -19080,7 +19080,7 @@
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
     "start_date_local": "2025-10-10T16:57:17Z",
-    "type": "VirtualRide",
+    "type": "Ride",
     "year": 2025
   },
   {
@@ -19132,7 +19132,7 @@
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
     "start_date_local": "2025-10-12T19:04:54Z",
-    "type": "VirtualRide",
+    "type": "Ride",
     "year": 2025
   },
   {
@@ -19197,7 +19197,7 @@
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
     "start_date_local": "2025-10-14T18:09:08Z",
-    "type": "VirtualRide",
+    "type": "Ride",
     "year": 2025
   },
   {
@@ -19470,7 +19470,7 @@
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
     "start_date_local": "2025-10-26T19:34:57Z",
-    "type": "VirtualRide",
+    "type": "Ride",
     "year": 2025
   },
   {
@@ -19587,7 +19587,7 @@
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
     "start_date_local": "2025-10-31T15:43:00Z",
-    "type": "VirtualRide",
+    "type": "Ride",
     "year": 2025
   },
   {
@@ -19613,7 +19613,7 @@
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
     "start_date_local": "2025-11-01T18:35:58Z",
-    "type": "VirtualRide",
+    "type": "Ride",
     "year": 2025
   },
   {
@@ -19821,7 +19821,7 @@
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
     "start_date_local": "2025-11-09T17:26:41Z",
-    "type": "VirtualRide",
+    "type": "Ride",
     "year": 2025
   },
   {
@@ -20094,7 +20094,7 @@
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
     "start_date_local": "2025-11-20T15:50:35Z",
-    "type": "VirtualRide",
+    "type": "Ride",
     "year": 2025
   },
   {
@@ -20211,7 +20211,7 @@
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
     "start_date_local": "2025-11-23T16:39:48Z",
-    "type": "VirtualRide",
+    "type": "Ride",
     "year": 2025
   },
   {
@@ -20237,7 +20237,7 @@
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
     "start_date_local": "2025-11-24T18:08:54Z",
-    "type": "VirtualRide",
+    "type": "Ride",
     "year": 2025
   },
   {
@@ -20354,7 +20354,7 @@
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
     "start_date_local": "2025-11-28T15:58:52Z",
-    "type": "VirtualRide",
+    "type": "Ride",
     "year": 2025
   },
   {
@@ -20406,7 +20406,7 @@
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
     "start_date_local": "2025-11-30T12:06:11Z",
-    "type": "VirtualRide",
+    "type": "Ride",
     "year": 2025
   },
   {
@@ -20562,7 +20562,7 @@
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
     "start_date_local": "2025-12-08T15:43:16Z",
-    "type": "VirtualRide",
+    "type": "Ride",
     "year": 2025
   },
   {
@@ -20575,7 +20575,7 @@
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
     "start_date_local": "2025-12-09T15:12:11Z",
-    "type": "VirtualRide",
+    "type": "Ride",
     "year": 2025
   },
   {
@@ -20614,7 +20614,7 @@
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
     "start_date_local": "2025-12-11T16:05:46Z",
-    "type": "VirtualRide",
+    "type": "Ride",
     "year": 2025
   },
   {
@@ -20692,7 +20692,7 @@
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
     "start_date_local": "2025-12-14T15:36:18Z",
-    "type": "VirtualRide",
+    "type": "Ride",
     "year": 2025
   },
   {
@@ -20705,7 +20705,7 @@
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
     "start_date_local": "2025-12-14T15:58:50Z",
-    "type": "VirtualRide",
+    "type": "Ride",
     "year": 2025
   },
   {
@@ -20731,7 +20731,7 @@
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
     "start_date_local": "2025-12-15T18:50:24Z",
-    "type": "VirtualRide",
+    "type": "Ride",
     "year": 2025
   },
   {
@@ -20796,7 +20796,7 @@
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
     "start_date_local": "2025-12-18T16:38:13Z",
-    "type": "VirtualRide",
+    "type": "Ride",
     "year": 2025
   },
   {
@@ -20887,7 +20887,7 @@
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
     "start_date_local": "2025-12-23T09:07:10Z",
-    "type": "VirtualRide",
+    "type": "Ride",
     "year": 2025
   },
   {
@@ -20926,7 +20926,7 @@
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
     "start_date_local": "2025-12-24T09:20:18Z",
-    "type": "VirtualRide",
+    "type": "Ride",
     "year": 2025
   },
   {
@@ -20939,7 +20939,7 @@
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
     "start_date_local": "2025-12-25T19:50:19Z",
-    "type": "VirtualRide",
+    "type": "Ride",
     "year": 2025
   },
   {
@@ -21030,7 +21030,7 @@
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
     "start_date_local": "2025-12-30T18:43:28Z",
-    "type": "VirtualRide",
+    "type": "Ride",
     "year": 2025
   },
   {
@@ -21056,7 +21056,7 @@
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
     "start_date_local": "2025-12-31T16:28:22Z",
-    "type": "VirtualRide",
+    "type": "Ride",
     "year": 2025
   },
   {
@@ -21069,7 +21069,7 @@
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
     "start_date_local": "2026-01-01T12:36:05Z",
-    "type": "VirtualRide",
+    "type": "Ride",
     "year": 2026
   },
   {
@@ -21303,7 +21303,7 @@
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
     "start_date_local": "2026-01-12T17:11:34Z",
-    "type": "VirtualRide",
+    "type": "Ride",
     "year": 2026
   },
   {
@@ -21446,7 +21446,7 @@
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
     "start_date_local": "2026-01-16T19:06:29Z",
-    "type": "VirtualRide",
+    "type": "Ride",
     "year": 2026
   },
   {
@@ -21459,7 +21459,7 @@
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
     "start_date_local": "2026-01-17T13:07:08Z",
-    "type": "VirtualRide",
+    "type": "Ride",
     "year": 2026
   },
   {
@@ -21485,7 +21485,7 @@
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
     "start_date_local": "2026-01-19T17:29:51Z",
-    "type": "VirtualRide",
+    "type": "Ride",
     "year": 2026
   },
   {
@@ -21524,7 +21524,7 @@
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
     "start_date_local": "2026-01-21T18:29:16Z",
-    "type": "VirtualRide",
+    "type": "Ride",
     "year": 2026
   },
   {
@@ -21550,7 +21550,7 @@
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
     "start_date_local": "2026-01-23T15:25:51Z",
-    "type": "VirtualRide",
+    "type": "Ride",
     "year": 2026
   },
   {
@@ -21576,7 +21576,7 @@
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
     "start_date_local": "2026-01-24T18:15:20Z",
-    "type": "VirtualRide",
+    "type": "Ride",
     "year": 2026
   },
   {
@@ -21615,7 +21615,7 @@
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
     "start_date_local": "2026-01-27T15:05:26Z",
-    "type": "VirtualRide",
+    "type": "Ride",
     "year": 2026
   },
   {
@@ -21693,7 +21693,7 @@
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
     "start_date_local": "2026-01-28T18:17:41Z",
-    "type": "VirtualRide",
+    "type": "Ride",
     "year": 2026
   },
   {
@@ -21706,7 +21706,7 @@
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
     "start_date_local": "2026-01-29T18:06:16Z",
-    "type": "VirtualRide",
+    "type": "Ride",
     "year": 2026
   },
   {
@@ -21745,7 +21745,7 @@
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
     "start_date_local": "2026-01-31T16:33:37Z",
-    "type": "VirtualRide",
+    "type": "Ride",
     "year": 2026
   },
   {
@@ -21771,7 +21771,7 @@
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
     "start_date_local": "2026-02-01T16:27:12Z",
-    "type": "VirtualRide",
+    "type": "Ride",
     "year": 2026
   },
   {
@@ -21823,7 +21823,7 @@
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
     "start_date_local": "2026-02-03T18:42:23Z",
-    "type": "VirtualRide",
+    "type": "Ride",
     "year": 2026
   },
   {
@@ -21836,7 +21836,7 @@
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
     "start_date_local": "2026-02-04T14:06:43Z",
-    "type": "VirtualRide",
+    "type": "Ride",
     "year": 2026
   },
   {
@@ -21901,7 +21901,7 @@
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
     "start_date_local": "2026-02-05T19:49:58Z",
-    "type": "VirtualRide",
+    "type": "Ride",
     "year": 2026
   },
   {
@@ -21940,7 +21940,7 @@
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
     "start_date_local": "2026-02-07T13:09:37Z",
-    "type": "VirtualRide",
+    "type": "Ride",
     "year": 2026
   },
   {
@@ -21979,7 +21979,7 @@
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
     "start_date_local": "2026-02-09T17:14:35Z",
-    "type": "VirtualRide",
+    "type": "Ride",
     "year": 2026
   },
   {
@@ -21992,7 +21992,7 @@
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
     "start_date_local": "2026-02-10T17:02:02Z",
-    "type": "VirtualRide",
+    "type": "Ride",
     "year": 2026
   },
   {
@@ -22018,7 +22018,7 @@
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
     "start_date_local": "2026-02-11T11:30:17Z",
-    "type": "VirtualRide",
+    "type": "Ride",
     "year": 2026
   },
   {
@@ -22044,7 +22044,7 @@
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
     "start_date_local": "2026-02-12T18:38:04Z",
-    "type": "VirtualRide",
+    "type": "Ride",
     "year": 2026
   },
   {
@@ -22057,7 +22057,7 @@
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
     "start_date_local": "2026-02-13T15:57:35Z",
-    "type": "VirtualRide",
+    "type": "Ride",
     "year": 2026
   },
   {
@@ -22083,7 +22083,7 @@
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
     "start_date_local": "2026-02-14T13:27:11Z",
-    "type": "VirtualRide",
+    "type": "Ride",
     "year": 2026
   },
   {
@@ -22174,7 +22174,7 @@
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
     "start_date_local": "2026-02-20T18:32:40Z",
-    "type": "VirtualRide",
+    "type": "Ride",
     "year": 2026
   },
   {
@@ -22187,7 +22187,7 @@
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
     "start_date_local": "2026-02-21T13:47:06Z",
-    "type": "VirtualRide",
+    "type": "Ride",
     "year": 2026
   },
   {
