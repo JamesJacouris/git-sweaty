@@ -15380,6 +15380,24 @@
       "type": "Rowing",
       "url": "https://www.strava.com/activities/17481749134",
       "year": 2026
+    },
+    {
+      "date": "2026-02-22",
+      "hour": 18,
+      "name": "Base Miles #1",
+      "subtype": "VirtualRide",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17487624001",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-22",
+      "hour": 18,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17487634826",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -28800,6 +28818,16 @@
           "distance": 70243.1,
           "elevation_gain": 404.6,
           "moving_time": 7814.0
+        },
+        "2026-02-22": {
+          "activity_ids": [
+            "17487624001",
+            "17487634826"
+          ],
+          "count": 2,
+          "distance": 37688.5,
+          "elevation_gain": 141.8,
+          "moving_time": 5234.0
         }
       },
       "Rowing": {
@@ -29285,7 +29313,7 @@
       }
     }
   },
-  "generated_at": "2026-02-22T18:30:34.853732+00:00",
+  "generated_at": "2026-02-22T19:21:38.005854+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/100675368",
   "repo": "JamesJacouris/git-sweaty",
