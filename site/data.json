@@ -15407,6 +15407,24 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/17493424622",
       "year": 2026
+    },
+    {
+      "date": "2026-02-23",
+      "hour": 19,
+      "name": "MyWhoosh - Aerobic 12's #1",
+      "subtype": "VirtualRide",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17498402958",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-23",
+      "hour": 19,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17498422038",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -28837,6 +28855,16 @@
           "distance": 37688.5,
           "elevation_gain": 141.8,
           "moving_time": 5234.0
+        },
+        "2026-02-23": {
+          "activity_ids": [
+            "17498402958",
+            "17498422038"
+          ],
+          "count": 2,
+          "distance": 56813.600000000006,
+          "elevation_gain": 0.0,
+          "moving_time": 7686.0
         }
       },
       "Rowing": {
@@ -29331,7 +29359,7 @@
       }
     }
   },
-  "generated_at": "2026-02-23T19:12:19.645990+00:00",
+  "generated_at": "2026-02-23T20:41:04.859498+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/100675368",
   "repo": "JamesJacouris/git-sweaty",
