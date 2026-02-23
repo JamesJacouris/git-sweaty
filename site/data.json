@@ -15398,6 +15398,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/17487634826",
       "year": 2026
+    },
+    {
+      "date": "2026-02-23",
+      "hour": 11,
+      "name": "Lunch Weight Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/17493424622",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -29125,6 +29134,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 1816.0
+        },
+        "2026-02-23": {
+          "activity_ids": [
+            "17493424622"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2937.0
         }
       },
       "Workout": {
@@ -29313,7 +29331,7 @@
       }
     }
   },
-  "generated_at": "2026-02-23T11:37:40.398687+00:00",
+  "generated_at": "2026-02-23T12:56:33.453633+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/100675368",
   "repo": "JamesJacouris/git-sweaty",
