@@ -15425,6 +15425,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/17498422038",
       "year": 2026
+    },
+    {
+      "date": "2026-02-24",
+      "hour": 17,
+      "name": "3x5:00/6:00r row",
+      "subtype": "Rowing",
+      "type": "Rowing",
+      "url": "https://www.strava.com/activities/17508876648",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -28994,6 +29003,15 @@
           "distance": 14443.7,
           "elevation_gain": 0.0,
           "moving_time": 4901.0
+        },
+        "2026-02-24": {
+          "activity_ids": [
+            "17508876648"
+          ],
+          "count": 1,
+          "distance": 4980.9,
+          "elevation_gain": 0.0,
+          "moving_time": 1648.0
         }
       },
       "Run": {
@@ -29359,7 +29377,7 @@
       }
     }
   },
-  "generated_at": "2026-02-24T17:02:24.345485+00:00",
+  "generated_at": "2026-02-24T18:56:50.754366+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/100675368",
   "repo": "JamesJacouris/git-sweaty",
