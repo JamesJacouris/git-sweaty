@@ -22397,5 +22397,31 @@
     "start_date_local": "2026-03-01T15:21:51Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-02",
+    "distance": 25071.5,
+    "elevation_gain": 0.0,
+    "id": "17580808814",
+    "moving_time": 2706.0,
+    "name": "MyWhoosh - Base Miles #3",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-02T20:39:55Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-02",
+    "distance": 18521.7,
+    "elevation_gain": 0.0,
+    "id": "17580828675",
+    "moving_time": 2736.0,
+    "name": "Evening Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-03-02T20:40:06Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
