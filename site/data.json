@@ -15560,6 +15560,15 @@
       "type": "Rowing",
       "url": "https://www.strava.com/activities/17602117197",
       "year": 2026
+    },
+    {
+      "date": "2026-03-04",
+      "hour": 20,
+      "name": "Evening Yoga",
+      "subtype": "Yoga",
+      "type": "Yoga",
+      "url": "https://www.strava.com/activities/17606080717",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -29601,11 +29610,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 598.0
+        },
+        "2026-03-04": {
+          "activity_ids": [
+            "17606080717"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 635.0
         }
       }
     }
   },
-  "generated_at": "2026-03-04T20:28:48.657688+00:00",
+  "generated_at": "2026-03-04T21:30:53.363698+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/100675368",
   "repo": "JamesJacouris/git-sweaty",
