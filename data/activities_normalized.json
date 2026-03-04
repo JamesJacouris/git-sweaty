@@ -22449,5 +22449,18 @@
     "start_date_local": "2026-03-03T17:13:05Z",
     "type": "Yoga",
     "year": 2026
+  },
+  {
+    "date": "2026-03-03",
+    "distance": 515.0,
+    "elevation_gain": 0.0,
+    "id": "17600013791",
+    "moving_time": 131.0,
+    "name": "2:11 row",
+    "raw_activity_type": "Rowing",
+    "raw_type": "Rowing",
+    "start_date_local": "2026-03-03T17:18:49Z",
+    "type": "Rowing",
+    "year": 2026
   }
 ]

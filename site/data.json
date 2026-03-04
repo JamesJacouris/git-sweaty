@@ -15542,6 +15542,15 @@
       "type": "Yoga",
       "url": "https://www.strava.com/activities/17590543166",
       "year": 2026
+    },
+    {
+      "date": "2026-03-03",
+      "hour": 17,
+      "name": "2:11 row",
+      "subtype": "Rowing",
+      "type": "Rowing",
+      "url": "https://www.strava.com/activities/17600013791",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -29152,12 +29161,13 @@
         },
         "2026-03-03": {
           "activity_ids": [
-            "17590297449"
+            "17590297449",
+            "17600013791"
           ],
-          "count": 1,
-          "distance": 0.0,
+          "count": 2,
+          "distance": 515.0,
           "elevation_gain": 0.0,
-          "moving_time": 2523.0
+          "moving_time": 2654.0
         }
       },
       "Run": {
@@ -29577,7 +29587,7 @@
       }
     }
   },
-  "generated_at": "2026-03-04T11:27:43.268066+00:00",
+  "generated_at": "2026-03-04T12:47:35.751780+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/100675368",
   "repo": "JamesJacouris/git-sweaty",
