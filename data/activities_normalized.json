@@ -22501,5 +22501,31 @@
     "start_date_local": "2026-03-05T11:57:57Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-06",
+    "distance": 45676.7,
+    "elevation_gain": 437.6,
+    "id": "17625514862",
+    "moving_time": 5407.0,
+    "name": "Tri Endurance #2",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-06T13:50:47Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-06",
+    "distance": 37069.6,
+    "elevation_gain": 0.0,
+    "id": "17625549671",
+    "moving_time": 5576.0,
+    "name": "Afternoon Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-03-06T13:48:01Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
