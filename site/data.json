@@ -15618,10 +15618,19 @@
     {
       "date": "2026-03-08",
       "hour": 9,
-      "name": "MyWhoosh - Mount Grizzly",
+      "name": "Base Miles #1",
       "subtype": "VirtualRide",
       "type": "Ride",
       "url": "https://www.strava.com/activities/17645353962",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-08",
+      "hour": 9,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17645467321",
       "year": 2026
     }
   ],
@@ -29104,12 +29113,13 @@
         },
         "2026-03-08": {
           "activity_ids": [
-            "17645353962"
+            "17645353962",
+            "17645467321"
           ],
-          "count": 1,
-          "distance": 20407.0,
+          "count": 2,
+          "distance": 37511.6,
           "elevation_gain": 157.0,
-          "moving_time": 2432.0
+          "moving_time": 4923.0
         }
       },
       "Rowing": {
@@ -29723,7 +29733,7 @@
       }
     }
   },
-  "generated_at": "2026-03-08T10:21:34.967543+00:00",
+  "generated_at": "2026-03-08T11:18:34.891041+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/100675368",
   "repo": "JamesJacouris/git-sweaty",

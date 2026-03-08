@@ -22560,10 +22560,23 @@
     "elevation_gain": 157.0,
     "id": "17645353962",
     "moving_time": 2432.0,
-    "name": "MyWhoosh - Mount Grizzly",
+    "name": "Base Miles #1",
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
     "start_date_local": "2026-03-08T09:39:49Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-08",
+    "distance": 17104.6,
+    "elevation_gain": 0.0,
+    "id": "17645467321",
+    "moving_time": 2491.0,
+    "name": "Morning Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-03-08T09:38:22Z",
     "type": "Ride",
     "year": 2026
   }
