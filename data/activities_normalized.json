@@ -22631,5 +22631,44 @@
     "start_date_local": "2026-03-10T07:36:54Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-10",
+    "distance": 4935.1,
+    "elevation_gain": 0.0,
+    "id": "17675224891",
+    "moving_time": 1200.0,
+    "name": "20:00 row",
+    "raw_activity_type": "Rowing",
+    "raw_type": "Rowing",
+    "start_date_local": "2026-03-10T17:28:00Z",
+    "type": "Rowing",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-10",
+    "distance": 4998.2,
+    "elevation_gain": 0.0,
+    "id": "17675689739",
+    "moving_time": 1200.0,
+    "name": "20:00 row",
+    "raw_activity_type": "Rowing",
+    "raw_type": "Rowing",
+    "start_date_local": "2026-03-10T17:59:00Z",
+    "type": "Rowing",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-10",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17675844007",
+    "moving_time": 3119.0,
+    "name": "Afternoon Row",
+    "raw_activity_type": "Rowing",
+    "raw_type": "Rowing",
+    "start_date_local": "2026-03-10T17:28:10Z",
+    "type": "Rowing",
+    "year": 2026
   }
 ]

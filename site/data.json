@@ -15668,6 +15668,33 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/17669177067",
       "year": 2026
+    },
+    {
+      "date": "2026-03-10",
+      "hour": 17,
+      "name": "20:00 row",
+      "subtype": "Rowing",
+      "type": "Rowing",
+      "url": "https://www.strava.com/activities/17675224891",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-10",
+      "hour": 17,
+      "name": "20:00 row",
+      "subtype": "Rowing",
+      "type": "Rowing",
+      "url": "https://www.strava.com/activities/17675689739",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-10",
+      "hour": 17,
+      "name": "Afternoon Row",
+      "subtype": "Rowing",
+      "type": "Rowing",
+      "url": "https://www.strava.com/activities/17675844007",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -29350,6 +29377,17 @@
           "distance": 14427.9,
           "elevation_gain": 0.0,
           "moving_time": 4579.0
+        },
+        "2026-03-10": {
+          "activity_ids": [
+            "17675224891",
+            "17675689739",
+            "17675844007"
+          ],
+          "count": 3,
+          "distance": 9933.3,
+          "elevation_gain": 0.0,
+          "moving_time": 5519.0
         }
       },
       "Run": {
@@ -29805,7 +29843,7 @@
       }
     }
   },
-  "generated_at": "2026-03-10T17:43:18.240768+00:00",
+  "generated_at": "2026-03-10T18:42:07.876175+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/100675368",
   "repo": "JamesJacouris/git-sweaty",
