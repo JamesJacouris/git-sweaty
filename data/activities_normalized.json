@@ -22683,5 +22683,18 @@
     "start_date_local": "2026-03-11T12:36:55Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-03-11",
+    "distance": 11105.1,
+    "elevation_gain": 21.9,
+    "id": "17686717304",
+    "moving_time": 4120.0,
+    "name": "Afternoon Row",
+    "raw_activity_type": "Rowing",
+    "raw_type": "Rowing",
+    "start_date_local": "2026-03-11T14:34:21Z",
+    "type": "Rowing",
+    "year": 2026
   }
 ]
