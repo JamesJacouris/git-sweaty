@@ -22670,5 +22670,18 @@
     "start_date_local": "2026-03-10T17:28:10Z",
     "type": "Rowing",
     "year": 2026
+  },
+  {
+    "date": "2026-03-11",
+    "distance": 35277.4,
+    "elevation_gain": 96.2,
+    "id": "17685067383",
+    "moving_time": 3730.0,
+    "name": "11min Intensive Aerobic",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-11T12:36:55Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
