@@ -15816,7 +15816,7 @@
     {
       "date": "2026-03-18",
       "hour": 6,
-      "name": "Morning Ride",
+      "name": "Morning Crawleyside",
       "subtype": "Ride",
       "type": "Ride",
       "url": "https://www.strava.com/activities/17764319385",
@@ -30055,7 +30055,7 @@
       }
     }
   },
-  "generated_at": "2026-03-18T11:42:50.600938+00:00",
+  "generated_at": "2026-03-18T13:02:58.372387+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/100675368",
   "repo": "JamesJacouris/git-sweaty",
