@@ -15830,6 +15830,15 @@
       "type": "Rowing",
       "url": "https://www.strava.com/activities/17767499463",
       "year": 2026
+    },
+    {
+      "date": "2026-03-19",
+      "hour": 18,
+      "name": "Base Miles #2",
+      "subtype": "VirtualRide",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17783291701",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -29395,6 +29404,15 @@
           "distance": 76407.6,
           "elevation_gain": 1519.0,
           "moving_time": 10101.0
+        },
+        "2026-03-19": {
+          "activity_ids": [
+            "17783291701"
+          ],
+          "count": 1,
+          "distance": 25072.4,
+          "elevation_gain": 0.0,
+          "moving_time": 2795.0
         }
       },
       "Rowing": {
@@ -30073,7 +30091,7 @@
       }
     }
   },
-  "generated_at": "2026-03-19T18:53:26.332266+00:00",
+  "generated_at": "2026-03-19T19:43:59.498130+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/100675368",
   "repo": "JamesJacouris/git-sweaty",

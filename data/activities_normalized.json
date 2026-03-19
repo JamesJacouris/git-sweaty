@@ -22865,5 +22865,18 @@
     "start_date_local": "2026-03-18T14:02:22Z",
     "type": "Rowing",
     "year": 2026
+  },
+  {
+    "date": "2026-03-19",
+    "distance": 25072.4,
+    "elevation_gain": 0.0,
+    "id": "17783291701",
+    "moving_time": 2795.0,
+    "name": "Base Miles #2",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-19T18:49:15Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
