@@ -15857,6 +15857,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/17794931395",
       "year": 2026
+    },
+    {
+      "date": "2026-03-21",
+      "hour": 12,
+      "name": "Lunch Row",
+      "subtype": "Rowing",
+      "type": "Rowing",
+      "url": "https://www.strava.com/activities/17804332172",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -29654,6 +29663,15 @@
           "distance": 6824.0,
           "elevation_gain": 14.7,
           "moving_time": 3337.0
+        },
+        "2026-03-21": {
+          "activity_ids": [
+            "17804332172"
+          ],
+          "count": 1,
+          "distance": 20000.1,
+          "elevation_gain": 0.0,
+          "moving_time": 5979.0
         }
       },
       "Run": {
@@ -30127,7 +30145,7 @@
       }
     }
   },
-  "generated_at": "2026-03-21T14:23:33.875972+00:00",
+  "generated_at": "2026-03-21T15:22:16.917913+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/100675368",
   "repo": "JamesJacouris/git-sweaty",
