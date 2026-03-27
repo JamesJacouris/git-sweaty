@@ -22982,5 +22982,31 @@
     "start_date_local": "2026-03-26T14:57:45Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-03-27",
+    "distance": 2042.0,
+    "elevation_gain": 0.0,
+    "id": "17877492674",
+    "moving_time": 512.0,
+    "name": "2042m row",
+    "raw_activity_type": "Rowing",
+    "raw_type": "Rowing",
+    "start_date_local": "2026-03-27T14:31:28Z",
+    "type": "Rowing",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-27",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17877499308",
+    "moving_time": 504.0,
+    "name": "Afternoon Row",
+    "raw_activity_type": "Rowing",
+    "raw_type": "Rowing",
+    "start_date_local": "2026-03-27T14:32:43Z",
+    "type": "Rowing",
+    "year": 2026
   }
 ]
