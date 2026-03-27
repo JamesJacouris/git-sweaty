@@ -23008,5 +23008,18 @@
     "start_date_local": "2026-03-27T14:32:43Z",
     "type": "Rowing",
     "year": 2026
+  },
+  {
+    "date": "2026-03-27",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17881174959",
+    "moving_time": 1458.0,
+    "name": "Night Yoga",
+    "raw_activity_type": "Yoga",
+    "raw_type": "Yoga",
+    "start_date_local": "2026-03-27T21:04:33Z",
+    "type": "Yoga",
+    "year": 2026
   }
 ]
