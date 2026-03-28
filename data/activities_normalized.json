@@ -23021,5 +23021,44 @@
     "start_date_local": "2026-03-27T21:04:33Z",
     "type": "Yoga",
     "year": 2026
+  },
+  {
+    "date": "2026-03-28",
+    "distance": 10334.3,
+    "elevation_gain": 11.8,
+    "id": "17889619833",
+    "moving_time": 3755.0,
+    "name": "Morning Row",
+    "raw_activity_type": "Rowing",
+    "raw_type": "Rowing",
+    "start_date_local": "2026-03-28T10:23:30Z",
+    "type": "Rowing",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-28",
+    "distance": 7708.8,
+    "elevation_gain": 14.7,
+    "id": "17889619848",
+    "moving_time": 1403.0,
+    "name": "Lunch Row",
+    "raw_activity_type": "Rowing",
+    "raw_type": "Rowing",
+    "start_date_local": "2026-03-28T12:38:44Z",
+    "type": "Rowing",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-28",
+    "distance": 5573.3,
+    "elevation_gain": 5.7,
+    "id": "17889627233",
+    "moving_time": 2277.0,
+    "name": "Afternoon Row",
+    "raw_activity_type": "Rowing",
+    "raw_type": "Rowing",
+    "start_date_local": "2026-03-28T13:07:18Z",
+    "type": "Rowing",
+    "year": 2026
   }
 ]
