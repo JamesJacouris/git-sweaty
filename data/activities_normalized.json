@@ -23060,5 +23060,18 @@
     "start_date_local": "2026-03-28T13:07:18Z",
     "type": "Rowing",
     "year": 2026
+  },
+  {
+    "date": "2026-03-29",
+    "distance": 47327.1,
+    "elevation_gain": 581.0,
+    "id": "17900868836",
+    "moving_time": 6278.0,
+    "name": "Chill Windy warm up with Fintan",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-03-29T13:00:27Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
