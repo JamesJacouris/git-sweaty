@@ -15951,7 +15951,7 @@
     {
       "date": "2026-03-28",
       "hour": 12,
-      "name": "Lunch Row",
+      "name": "HORR 2026",
       "subtype": "Rowing",
       "type": "Rowing",
       "url": "https://www.strava.com/activities/17889619848",
@@ -30337,7 +30337,7 @@
       }
     }
   },
-  "generated_at": "2026-03-29T14:31:08.258735+00:00",
+  "generated_at": "2026-03-29T15:28:04.848228+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/100675368",
   "repo": "JamesJacouris/git-sweaty",
