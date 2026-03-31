@@ -23112,5 +23112,18 @@
     "start_date_local": "2026-03-31T10:58:27Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-03-31",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17926177820",
+    "moving_time": 375.0,
+    "name": "Afternoon Yoga",
+    "raw_activity_type": "Yoga",
+    "raw_type": "Yoga",
+    "start_date_local": "2026-03-31T17:16:32Z",
+    "type": "Yoga",
+    "year": 2026
   }
 ]
