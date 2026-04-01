@@ -23125,5 +23125,18 @@
     "start_date_local": "2026-03-31T17:16:32Z",
     "type": "Yoga",
     "year": 2026
+  },
+  {
+    "date": "2026-04-01",
+    "distance": 314170.0,
+    "elevation_gain": 4663.0,
+    "id": "17941270734",
+    "moving_time": 42565.0,
+    "name": "Mallorca 312",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-01T05:06:47Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
