@@ -23242,5 +23242,18 @@
     "start_date_local": "2026-04-08T15:35:27Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-09",
+    "distance": 32352.8,
+    "elevation_gain": 467.0,
+    "id": "18040589307",
+    "moving_time": 4645.0,
+    "name": "Chill one with Adam",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-09T12:35:17Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]

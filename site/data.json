@@ -16091,6 +16091,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18028398557",
       "year": 2026
+    },
+    {
+      "date": "2026-04-09",
+      "hour": 12,
+      "name": "Chill one with Adam",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18040589307",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -29791,6 +29800,15 @@
           "distance": 21791.5,
           "elevation_gain": 239.8,
           "moving_time": 2644.0
+        },
+        "2026-04-09": {
+          "activity_ids": [
+            "18040589307"
+          ],
+          "count": 1,
+          "distance": 32352.8,
+          "elevation_gain": 467.0,
+          "moving_time": 4645.0
         }
       },
       "Rowing": {
@@ -30573,7 +30591,7 @@
       }
     }
   },
-  "generated_at": "2026-04-09T11:53:00.292812+00:00",
+  "generated_at": "2026-04-09T13:18:16.011215+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/100675368",
   "repo": "JamesJacouris/git-sweaty",
