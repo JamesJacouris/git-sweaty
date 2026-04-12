@@ -23320,5 +23320,18 @@
     "start_date_local": "2026-04-11T16:01:56Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-04-12",
+    "distance": 10377.2,
+    "elevation_gain": 109.0,
+    "id": "18083288754",
+    "moving_time": 3136.0,
+    "name": "Wout Van Aert W \ud83c\udfc6",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-12T17:45:01Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
