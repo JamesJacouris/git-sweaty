@@ -23346,5 +23346,18 @@
     "start_date_local": "2026-04-14T12:18:00Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-14",
+    "distance": 22034.7,
+    "elevation_gain": 41.0,
+    "id": "18108757911",
+    "moving_time": 2409.0,
+    "name": "Base Miles #2",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-14T18:52:03Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
