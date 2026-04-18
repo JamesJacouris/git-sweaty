@@ -23411,5 +23411,31 @@
     "start_date_local": "2026-04-17T18:36:39Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-04-18",
+    "distance": 17760.3,
+    "elevation_gain": 221.2,
+    "id": "18159342551",
+    "moving_time": 2294.0,
+    "name": "MyWhoosh",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-18T14:55:34Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-18",
+    "distance": 16811.4,
+    "elevation_gain": 0.0,
+    "id": "18159438696",
+    "moving_time": 2348.0,
+    "name": "Afternoon Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-18T14:54:43Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
