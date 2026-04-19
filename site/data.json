@@ -16210,6 +16210,15 @@
       "year": 2026
     },
     {
+      "date": "2026-04-17",
+      "hour": 18,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18175344140",
+      "year": 2026
+    },
+    {
       "date": "2026-04-18",
       "hour": 14,
       "name": "MyWhoosh",
@@ -29976,12 +29985,13 @@
         },
         "2026-04-17": {
           "activity_ids": [
-            "18149086930"
+            "18149086930",
+            "18175344140"
           ],
-          "count": 1,
-          "distance": 35257.2,
-          "elevation_gain": 346.0,
-          "moving_time": 5972.0
+          "count": 2,
+          "distance": 70671.0,
+          "elevation_gain": 585.8,
+          "moving_time": 11994.0
         },
         "2026-04-18": {
           "activity_ids": [
@@ -30819,7 +30829,7 @@
       }
     }
   },
-  "generated_at": "2026-04-19T16:35:45.141483+00:00",
+  "generated_at": "2026-04-19T17:33:02.139498+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/100675368",
   "repo": "JamesJacouris/git-sweaty",
