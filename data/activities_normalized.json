@@ -23476,5 +23476,18 @@
     "start_date_local": "2026-04-19T22:26:30Z",
     "type": "Yoga",
     "year": 2026
+  },
+  {
+    "date": "2026-04-21",
+    "distance": 42521.9,
+    "elevation_gain": 569.4,
+    "id": "18200192020",
+    "moving_time": 5697.0,
+    "name": "Tow Law with Flacebomb",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-21T16:06:18Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
