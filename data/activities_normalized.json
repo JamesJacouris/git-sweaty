@@ -23489,5 +23489,18 @@
     "start_date_local": "2026-04-21T16:06:18Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-04-22",
+    "distance": 10466.1,
+    "elevation_gain": 69.0,
+    "id": "18213162081",
+    "moving_time": 3233.0,
+    "name": "3.2 Easy Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-22T15:15:42Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
