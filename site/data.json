@@ -16257,7 +16257,7 @@
     {
       "date": "2026-04-21",
       "hour": 16,
-      "name": "Tow Law with Flacebomb",
+      "name": "3.1 Tow Law with Flacebomb",
       "subtype": "Ride",
       "type": "Ride",
       "url": "https://www.strava.com/activities/18200192020",
@@ -16275,7 +16275,7 @@
     {
       "date": "2026-04-22",
       "hour": 19,
-      "name": "Base Miles #3",
+      "name": "3.3 Base Miles #3",
       "subtype": "VirtualRide",
       "type": "Ride",
       "url": "https://www.strava.com/activities/18216246852",
@@ -16284,7 +16284,7 @@
     {
       "date": "2026-04-23",
       "hour": 17,
-      "name": "Afternoon Ride",
+      "name": "3.4 Evening spin",
       "subtype": "Ride",
       "type": "Ride",
       "url": "https://www.strava.com/activities/18229878176",
@@ -30947,7 +30947,7 @@
       }
     }
   },
-  "generated_at": "2026-04-23T19:03:03.696531+00:00",
+  "generated_at": "2026-04-23T20:47:45.316919+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/100675368",
   "repo": "JamesJacouris/git-sweaty",
