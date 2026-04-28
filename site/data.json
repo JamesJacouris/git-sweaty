@@ -16329,7 +16329,7 @@
     {
       "date": "2026-04-26",
       "hour": 9,
-      "name": "Morning Ride",
+      "name": "3.8 Seaham with Flacey and Callum",
       "subtype": "Ride",
       "type": "Ride",
       "url": "https://www.strava.com/activities/18263848682",
@@ -16338,7 +16338,7 @@
     {
       "date": "2026-04-26",
       "hour": 16,
-      "name": "Afternoon Row",
+      "name": "3.9 4+ Bursts and Starts",
       "subtype": "Rowing",
       "type": "Rowing",
       "url": "https://www.strava.com/activities/18269478837",
@@ -16347,7 +16347,7 @@
     {
       "date": "2026-04-28",
       "hour": 7,
-      "name": "Morning Run",
+      "name": "4.1 3x2km",
       "subtype": "Run",
       "type": "Run",
       "url": "https://www.strava.com/activities/18288315816",
@@ -31055,7 +31055,7 @@
       }
     }
   },
-  "generated_at": "2026-04-28T08:19:55.715315+00:00",
+  "generated_at": "2026-04-28T11:01:27.371323+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/100675368",
   "repo": "JamesJacouris/git-sweaty",
