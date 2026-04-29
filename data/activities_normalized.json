@@ -23645,5 +23645,18 @@
     "start_date_local": "2026-04-28T17:28:44Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-04-29",
+    "distance": 43406.3,
+    "elevation_gain": 583.9,
+    "id": "18302004033",
+    "moving_time": 5635.0,
+    "name": "4.3 Chilly Tow Law",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-29T05:53:06Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
