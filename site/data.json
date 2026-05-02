@@ -16392,7 +16392,7 @@
     {
       "date": "2026-04-30",
       "hour": 17,
-      "name": "Afternoon Run",
+      "name": "4.5 Foundation Run",
       "subtype": "Run",
       "type": "Run",
       "url": "https://www.strava.com/activities/18322160225",
@@ -31155,7 +31155,7 @@
       }
     }
   },
-  "generated_at": "2026-05-02T20:37:52.460438+00:00",
+  "generated_at": "2026-05-02T21:37:02.353368+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/100675368",
   "repo": "JamesJacouris/git-sweaty",
