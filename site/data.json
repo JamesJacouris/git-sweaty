@@ -16410,7 +16410,7 @@
     {
       "date": "2026-05-03",
       "hour": 8,
-      "name": "Morning Row",
+      "name": "4.7 Wet 4+",
       "subtype": "Rowing",
       "type": "Rowing",
       "url": "https://www.strava.com/activities/18355899678",
@@ -16419,7 +16419,7 @@
     {
       "date": "2026-05-03",
       "hour": 16,
-      "name": "Afternoon Run",
+      "name": "4.8 Rainy run but back for the F1",
       "subtype": "Run",
       "type": "Run",
       "url": "https://www.strava.com/activities/18362319848",
@@ -31191,7 +31191,7 @@
       }
     }
   },
-  "generated_at": "2026-05-03T17:43:38.296385+00:00",
+  "generated_at": "2026-05-03T18:54:09.909063+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/100675368",
   "repo": "JamesJacouris/git-sweaty",
