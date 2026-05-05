@@ -23736,5 +23736,31 @@
     "start_date_local": "2026-05-04T07:58:25Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-05",
+    "distance": 10642.1,
+    "elevation_gain": 63.0,
+    "id": "18389509430",
+    "moving_time": 3253.0,
+    "name": "Evening Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-05T18:26:15Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-05",
+    "distance": 6902.8,
+    "elevation_gain": 14.4,
+    "id": "18389509873",
+    "moving_time": 2476.0,
+    "name": "Morning Row",
+    "raw_activity_type": "Rowing",
+    "raw_type": "Rowing",
+    "start_date_local": "2026-05-05T08:13:43Z",
+    "type": "Rowing",
+    "year": 2026
   }
 ]
