@@ -16437,7 +16437,7 @@
     {
       "date": "2026-05-05",
       "hour": 18,
-      "name": "Evening Run",
+      "name": "5.3 Evening Run",
       "subtype": "Run",
       "type": "Run",
       "url": "https://www.strava.com/activities/18389509430",
@@ -16455,7 +16455,7 @@
     {
       "date": "2026-05-06",
       "hour": 14,
-      "name": "Afternoon Ride",
+      "name": "5.4 Solo Wolsingham",
       "subtype": "Ride",
       "type": "Ride",
       "url": "https://www.strava.com/activities/18400545099",
@@ -31291,7 +31291,7 @@
       }
     }
   },
-  "generated_at": "2026-05-06T20:19:01.022856+00:00",
+  "generated_at": "2026-05-06T21:53:32.051334+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/100675368",
   "repo": "JamesJacouris/git-sweaty",
