@@ -23827,5 +23827,18 @@
     "start_date_local": "2026-05-08T16:59:39Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-09",
+    "distance": 5479.3,
+    "elevation_gain": 18.7,
+    "id": "18437046905",
+    "moving_time": 3886.0,
+    "name": "Morning Row",
+    "raw_activity_type": "Rowing",
+    "raw_type": "Rowing",
+    "start_date_local": "2026-05-09T09:43:32Z",
+    "type": "Rowing",
+    "year": 2026
   }
 ]
