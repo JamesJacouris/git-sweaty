@@ -16491,7 +16491,7 @@
     {
       "date": "2026-05-08",
       "hour": 16,
-      "name": "Afternoon Run",
+      "name": "5.5 Afternoon Run",
       "subtype": "Run",
       "type": "Run",
       "url": "https://www.strava.com/activities/18434141546",
@@ -16500,7 +16500,7 @@
     {
       "date": "2026-05-09",
       "hour": 9,
-      "name": "Morning Row",
+      "name": "Durham City 8+ W",
       "subtype": "Rowing",
       "type": "Rowing",
       "url": "https://www.strava.com/activities/18437046905",
@@ -16509,7 +16509,7 @@
     {
       "date": "2026-05-09",
       "hour": 20,
-      "name": "Endurance #7",
+      "name": "5.6 Endurance #7",
       "subtype": "VirtualRide",
       "type": "Ride",
       "url": "https://www.strava.com/activities/18443641545",
@@ -16527,7 +16527,7 @@
     {
       "date": "2026-05-10",
       "hour": 15,
-      "name": "Afternoon Run",
+      "name": "5.7 SLR",
       "subtype": "Run",
       "type": "Run",
       "url": "https://www.strava.com/activities/18454805602",
@@ -31401,7 +31401,7 @@
       }
     }
   },
-  "generated_at": "2026-05-11T02:45:19.862862+00:00",
+  "generated_at": "2026-05-11T06:36:08.796767+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/100675368",
   "repo": "JamesJacouris/git-sweaty",
