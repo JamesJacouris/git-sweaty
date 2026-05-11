@@ -23892,5 +23892,31 @@
     "start_date_local": "2026-05-10T16:54:02Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-11",
+    "distance": 13125.1,
+    "elevation_gain": 136.0,
+    "id": "18464486646",
+    "moving_time": 1772.0,
+    "name": "6.1 Got bored - Heading outside",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-05-11T15:12:32Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-11",
+    "distance": 22753.9,
+    "elevation_gain": 348.0,
+    "id": "18465265870",
+    "moving_time": 2740.0,
+    "name": "6.1 Continued",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-11T16:05:57Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
