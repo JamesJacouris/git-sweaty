@@ -16577,6 +16577,15 @@
       "type": "Rowing",
       "url": "https://www.strava.com/activities/18488341876",
       "year": 2026
+    },
+    {
+      "date": "2026-05-13",
+      "hour": 17,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18494578063",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -30448,6 +30457,15 @@
           "distance": 35879.0,
           "elevation_gain": 484.0,
           "moving_time": 4512.0
+        },
+        "2026-05-13": {
+          "activity_ids": [
+            "18494578063"
+          ],
+          "count": 1,
+          "distance": 43075.9,
+          "elevation_gain": 739.0,
+          "moving_time": 5362.0
         }
       },
       "Rowing": {
@@ -31465,7 +31483,7 @@
       }
     }
   },
-  "generated_at": "2026-05-13T17:58:26.901210+00:00",
+  "generated_at": "2026-05-13T19:58:24.691831+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/100675368",
   "repo": "JamesJacouris/git-sweaty",
