@@ -16595,6 +16595,15 @@
       "type": "Yoga",
       "url": "https://www.strava.com/activities/18508980542",
       "year": 2026
+    },
+    {
+      "date": "2026-05-15",
+      "hour": 19,
+      "name": "Zone 2 Endurance 40min",
+      "subtype": "VirtualRide",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18520402201",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -30475,6 +30484,15 @@
           "distance": 43075.9,
           "elevation_gain": 739.0,
           "moving_time": 5362.0
+        },
+        "2026-05-15": {
+          "activity_ids": [
+            "18520402201"
+          ],
+          "count": 1,
+          "distance": 29669.7,
+          "elevation_gain": 254.2,
+          "moving_time": 3611.0
         }
       },
       "Rowing": {
@@ -31501,7 +31519,7 @@
       }
     }
   },
-  "generated_at": "2026-05-15T18:20:17.320490+00:00",
+  "generated_at": "2026-05-15T20:13:42.379532+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/100675368",
   "repo": "JamesJacouris/git-sweaty",
