@@ -24035,5 +24035,18 @@
     "start_date_local": "2026-05-17T17:04:23Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-18",
+    "distance": 16544.5,
+    "elevation_gain": 0.0,
+    "id": "18558074334",
+    "moving_time": 1909.0,
+    "name": "7.1 Spin out of the Legs",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-05-18T18:28:44Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
