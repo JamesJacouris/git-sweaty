@@ -24048,5 +24048,18 @@
     "start_date_local": "2026-05-18T18:28:44Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-19",
+    "distance": 24163.7,
+    "elevation_gain": 75.0,
+    "id": "18564977164",
+    "moving_time": 2747.0,
+    "name": "Coffee Trail",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-05-19T09:23:16Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
