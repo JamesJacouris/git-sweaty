@@ -24074,5 +24074,18 @@
     "start_date_local": "2026-05-19T19:06:33Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-20",
+    "distance": 43180.7,
+    "elevation_gain": 793.0,
+    "id": "18585300232",
+    "moving_time": 5527.0,
+    "name": "7.4 Tow Law with Callum and Flacey",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-20T17:20:26Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
