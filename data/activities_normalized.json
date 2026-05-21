@@ -24100,5 +24100,31 @@
     "start_date_local": "2026-05-20T21:38:50Z",
     "type": "Yoga",
     "year": 2026
+  },
+  {
+    "date": "2026-05-21",
+    "distance": 31739.4,
+    "elevation_gain": 391.2,
+    "id": "18598342910",
+    "moving_time": 4482.0,
+    "name": "7.5 Looking for a left knee replacement",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-21T17:10:59Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-21",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18598797259",
+    "moving_time": 1181.0,
+    "name": "Evening Yoga",
+    "raw_activity_type": "Yoga",
+    "raw_type": "Yoga",
+    "start_date_local": "2026-05-21T18:48:41Z",
+    "type": "Yoga",
+    "year": 2026
   }
 ]
