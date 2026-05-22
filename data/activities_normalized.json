@@ -24139,5 +24139,18 @@
     "start_date_local": "2026-05-22T08:28:28Z",
     "type": "Rowing",
     "year": 2026
+  },
+  {
+    "date": "2026-05-22",
+    "distance": 5657.7,
+    "elevation_gain": 17.0,
+    "id": "18611634282",
+    "moving_time": 1816.0,
+    "name": "7.6 Recovery",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-22T18:44:42Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
