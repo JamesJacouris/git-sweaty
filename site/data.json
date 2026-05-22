@@ -16703,6 +16703,15 @@
       "type": "Yoga",
       "url": "https://www.strava.com/activities/18598797259",
       "year": 2026
+    },
+    {
+      "date": "2026-05-22",
+      "hour": 8,
+      "name": "Morning Row",
+      "subtype": "Rowing",
+      "type": "Rowing",
+      "url": "https://www.strava.com/activities/18605313178",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -30954,6 +30963,15 @@
           "distance": 9487.3,
           "elevation_gain": 18.9,
           "moving_time": 3397.0
+        },
+        "2026-05-22": {
+          "activity_ids": [
+            "18605313178"
+          ],
+          "count": 1,
+          "distance": 6894.2,
+          "elevation_gain": 14.5,
+          "moving_time": 2936.0
         }
       },
       "Run": {
@@ -31709,7 +31727,7 @@
       }
     }
   },
-  "generated_at": "2026-05-22T08:19:30.943100+00:00",
+  "generated_at": "2026-05-22T11:42:56.099410+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/100675368",
   "repo": "JamesJacouris/git-sweaty",
