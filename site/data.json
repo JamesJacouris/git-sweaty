@@ -16739,6 +16739,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18617579263",
       "year": 2026
+    },
+    {
+      "date": "2026-05-23",
+      "hour": 19,
+      "name": "7.8 Testing Knee",
+      "subtype": "VirtualRide",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18625300745",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -30683,6 +30692,15 @@
           "distance": 31739.4,
           "elevation_gain": 391.2,
           "moving_time": 4482.0
+        },
+        "2026-05-23": {
+          "activity_ids": [
+            "18625300745"
+          ],
+          "count": 1,
+          "distance": 8952.1,
+          "elevation_gain": 0.0,
+          "moving_time": 1126.0
         }
       },
       "Rowing": {
@@ -31781,7 +31799,7 @@
       }
     }
   },
-  "generated_at": "2026-05-23T17:58:10.470979+00:00",
+  "generated_at": "2026-05-23T19:14:31.166164+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/100675368",
   "repo": "JamesJacouris/git-sweaty",
