@@ -24204,5 +24204,18 @@
     "start_date_local": "2026-05-24T06:52:42Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-24",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18640953092",
+    "moving_time": 758.0,
+    "name": "Night Yoga",
+    "raw_activity_type": "Yoga",
+    "raw_type": "Yoga",
+    "start_date_local": "2026-05-24T22:53:50Z",
+    "type": "Yoga",
+    "year": 2026
   }
 ]
