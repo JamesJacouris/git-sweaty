@@ -24230,5 +24230,18 @@
     "start_date_local": "2026-05-25T22:30:42Z",
     "type": "Yoga",
     "year": 2026
+  },
+  {
+    "date": "2026-05-26",
+    "distance": 42278.6,
+    "elevation_gain": 568.9,
+    "id": "18662726882",
+    "moving_time": 4924.0,
+    "name": "8.1 I love this Game",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-26T15:28:17Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]

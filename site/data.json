@@ -16775,6 +16775,15 @@
       "type": "Yoga",
       "url": "https://www.strava.com/activities/18653796260",
       "year": 2026
+    },
+    {
+      "date": "2026-05-26",
+      "hour": 15,
+      "name": "8.1 I love this Game",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18662726882",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -30737,6 +30746,15 @@
           "distance": 96733.4,
           "elevation_gain": 1426.5,
           "moving_time": 11875.0
+        },
+        "2026-05-26": {
+          "activity_ids": [
+            "18662726882"
+          ],
+          "count": 1,
+          "distance": 42278.6,
+          "elevation_gain": 568.9,
+          "moving_time": 4924.0
         }
       },
       "Rowing": {
@@ -31853,7 +31871,7 @@
       }
     }
   },
-  "generated_at": "2026-05-26T08:38:21.908172+00:00",
+  "generated_at": "2026-05-26T16:39:18.426952+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/100675368",
   "repo": "JamesJacouris/git-sweaty",
