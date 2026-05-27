@@ -16797,7 +16797,7 @@
     {
       "date": "2026-05-26",
       "hour": 17,
-      "name": "Afternoon Run",
+      "name": "8.2 Evening run with Jamerson",
       "subtype": "Run",
       "type": "Run",
       "url": "https://www.strava.com/activities/18663936685",
@@ -16810,6 +16810,15 @@
       "subtype": "Yoga",
       "type": "Yoga",
       "url": "https://www.strava.com/activities/18667237671",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-27",
+      "hour": 17,
+      "name": "8.3 Very quick spin",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18678184299",
       "year": 2026
     }
   ],
@@ -30782,6 +30791,15 @@
           "distance": 42278.6,
           "elevation_gain": 568.9,
           "moving_time": 4924.0
+        },
+        "2026-05-27": {
+          "activity_ids": [
+            "18678184299"
+          ],
+          "count": 1,
+          "distance": 22708.2,
+          "elevation_gain": 316.0,
+          "moving_time": 2709.0
         }
       },
       "Rowing": {
@@ -31917,7 +31935,7 @@
       }
     }
   },
-  "generated_at": "2026-05-27T15:29:00.278126+00:00",
+  "generated_at": "2026-05-27T18:23:35.529399+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/100675368",
   "repo": "JamesJacouris/git-sweaty",
