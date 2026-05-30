@@ -16865,6 +16865,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18718176335",
       "year": 2026
+    },
+    {
+      "date": "2026-05-30",
+      "hour": 18,
+      "name": "Bruges",
+      "subtype": "VirtualRide",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18718620026",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -30849,12 +30858,13 @@
         "2026-05-30": {
           "activity_ids": [
             "18718134182",
-            "18718176335"
+            "18718176335",
+            "18718620026"
           ],
-          "count": 2,
-          "distance": 84560.70000000001,
+          "count": 3,
+          "distance": 92806.40000000001,
           "elevation_gain": 1298.0,
-          "moving_time": 9906.0
+          "moving_time": 10821.0
         }
       },
       "Rowing": {
@@ -32017,7 +32027,7 @@
       }
     }
   },
-  "generated_at": "2026-05-30T16:58:34.418383+00:00",
+  "generated_at": "2026-05-30T18:03:57.962739+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/100675368",
   "repo": "JamesJacouris/git-sweaty",
