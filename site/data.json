@@ -16901,6 +16901,15 @@
       "type": "Yoga",
       "url": "https://www.strava.com/activities/18735092699",
       "year": 2026
+    },
+    {
+      "date": "2026-06-01",
+      "hour": 10,
+      "name": "Morning Surfing",
+      "subtype": "Surfing",
+      "type": "Surfing",
+      "url": "https://www.strava.com/activities/18739957171",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -31567,6 +31576,17 @@
           "moving_time": 4942.0
         }
       },
+      "Surfing": {
+        "2026-06-01": {
+          "activity_ids": [
+            "18739957171"
+          ],
+          "count": 1,
+          "distance": 2657.1,
+          "elevation_gain": 8.3,
+          "moving_time": 3489.0
+        }
+      },
       "Walk": {
         "2026-04-03": {
           "activity_ids": [
@@ -32081,7 +32101,7 @@
       }
     }
   },
-  "generated_at": "2026-06-01T05:58:44.898876+00:00",
+  "generated_at": "2026-06-01T11:43:04.882254+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/100675368",
   "repo": "JamesJacouris/git-sweaty",
@@ -32127,6 +32147,10 @@
     "StandUpPaddling": {
       "accent": "#72efdd",
       "label": "Stand Up Paddling"
+    },
+    "Surfing": {
+      "accent": "#fb5607",
+      "label": "Surfing"
     },
     "Swim": {
       "accent": "#3a86ff",
@@ -32176,6 +32200,7 @@
     "Sail",
     "Soccer",
     "StandUpPaddling",
+    "Surfing",
     "Swim",
     "Tennis",
     "VirtualRow",
