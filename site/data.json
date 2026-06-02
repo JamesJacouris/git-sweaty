@@ -16910,6 +16910,15 @@
       "type": "Surfing",
       "url": "https://www.strava.com/activities/18739957171",
       "year": 2026
+    },
+    {
+      "date": "2026-06-02",
+      "hour": 9,
+      "name": "9.1 Few Bursts",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18753452012",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -30901,6 +30910,15 @@
           "distance": 92806.40000000001,
           "elevation_gain": 1298.0,
           "moving_time": 10821.0
+        },
+        "2026-06-02": {
+          "activity_ids": [
+            "18753452012"
+          ],
+          "count": 1,
+          "distance": 42190.6,
+          "elevation_gain": 638.0,
+          "moving_time": 5035.0
         }
       },
       "Rowing": {
@@ -32101,7 +32119,7 @@
       }
     }
   },
-  "generated_at": "2026-06-02T08:25:08.848350+00:00",
+  "generated_at": "2026-06-02T12:37:55.805639+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/100675368",
   "repo": "JamesJacouris/git-sweaty",

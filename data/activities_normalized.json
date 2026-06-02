@@ -24425,5 +24425,18 @@
     "start_date_local": "2026-06-01T10:24:59Z",
     "type": "Surfing",
     "year": 2026
+  },
+  {
+    "date": "2026-06-02",
+    "distance": 42190.6,
+    "elevation_gain": 638.0,
+    "id": "18753452012",
+    "moving_time": 5035.0,
+    "name": "9.1 Few Bursts",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-02T09:52:48Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
