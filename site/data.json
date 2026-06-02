@@ -16919,6 +16919,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18753452012",
       "year": 2026
+    },
+    {
+      "date": "2026-06-02",
+      "hour": 15,
+      "name": "9.2 Foundation with 10mins Tempo",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18757218915",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -31592,6 +31601,15 @@
           "distance": 16064.4,
           "elevation_gain": 93.0,
           "moving_time": 4942.0
+        },
+        "2026-06-02": {
+          "activity_ids": [
+            "18757218915"
+          ],
+          "count": 1,
+          "distance": 10946.5,
+          "elevation_gain": 66.0,
+          "moving_time": 3228.0
         }
       },
       "Surfing": {
@@ -32119,7 +32137,7 @@
       }
     }
   },
-  "generated_at": "2026-06-02T12:37:55.805639+00:00",
+  "generated_at": "2026-06-02T17:18:23.681643+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/100675368",
   "repo": "JamesJacouris/git-sweaty",

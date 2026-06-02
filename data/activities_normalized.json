@@ -24438,5 +24438,18 @@
     "start_date_local": "2026-06-02T09:52:48Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-02",
+    "distance": 10946.5,
+    "elevation_gain": 66.0,
+    "id": "18757218915",
+    "moving_time": 3228.0,
+    "name": "9.2 Foundation with 10mins Tempo",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-02T15:29:56Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
