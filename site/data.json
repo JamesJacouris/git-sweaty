@@ -16937,6 +16937,15 @@
       "type": "Rowing",
       "url": "https://www.strava.com/activities/18766862009",
       "year": 2026
+    },
+    {
+      "date": "2026-06-03",
+      "hour": 17,
+      "name": "Recovery",
+      "subtype": "VirtualRide",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18773078917",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -30937,6 +30946,15 @@
           "distance": 42190.6,
           "elevation_gain": 638.0,
           "moving_time": 5035.0
+        },
+        "2026-06-03": {
+          "activity_ids": [
+            "18773078917"
+          ],
+          "count": 1,
+          "distance": 38876.7,
+          "elevation_gain": 271.8,
+          "moving_time": 4867.0
         }
       },
       "Rowing": {
@@ -32155,7 +32173,7 @@
       }
     }
   },
-  "generated_at": "2026-06-03T16:39:39.142488+00:00",
+  "generated_at": "2026-06-03T20:16:19.545867+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/100675368",
   "repo": "JamesJacouris/git-sweaty",

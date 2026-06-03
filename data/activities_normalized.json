@@ -24464,5 +24464,18 @@
     "start_date_local": "2026-06-03T08:53:29Z",
     "type": "Rowing",
     "year": 2026
+  },
+  {
+    "date": "2026-06-03",
+    "distance": 38876.7,
+    "elevation_gain": 271.8,
+    "id": "18773078917",
+    "moving_time": 4867.0,
+    "name": "Recovery",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-06-03T17:16:26Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
