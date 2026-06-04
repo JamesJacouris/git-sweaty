@@ -24490,5 +24490,18 @@
     "start_date_local": "2026-06-03T22:32:34Z",
     "type": "Yoga",
     "year": 2026
+  },
+  {
+    "date": "2026-06-04",
+    "distance": 23528.5,
+    "elevation_gain": 260.0,
+    "id": "18781741813",
+    "moving_time": 3138.0,
+    "name": "MyWhoosh - Ardennes",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-06-04T11:00:51Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]

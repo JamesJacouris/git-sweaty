@@ -16955,6 +16955,15 @@
       "type": "Yoga",
       "url": "https://www.strava.com/activities/18775994082",
       "year": 2026
+    },
+    {
+      "date": "2026-06-04",
+      "hour": 11,
+      "name": "MyWhoosh - Ardennes",
+      "subtype": "VirtualRide",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18781741813",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -30964,6 +30973,15 @@
           "distance": 38876.7,
           "elevation_gain": 271.8,
           "moving_time": 4867.0
+        },
+        "2026-06-04": {
+          "activity_ids": [
+            "18781741813"
+          ],
+          "count": 1,
+          "distance": 23528.5,
+          "elevation_gain": 260.0,
+          "moving_time": 3138.0
         }
       },
       "Rowing": {
@@ -32191,7 +32209,7 @@
       }
     }
   },
-  "generated_at": "2026-06-04T08:16:48.423256+00:00",
+  "generated_at": "2026-06-04T11:49:00.136883+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/100675368",
   "repo": "JamesJacouris/git-sweaty",
