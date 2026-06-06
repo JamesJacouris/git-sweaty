@@ -16982,6 +16982,15 @@
       "type": "Rowing",
       "url": "https://www.strava.com/activities/18805827307",
       "year": 2026
+    },
+    {
+      "date": "2026-06-06",
+      "hour": 10,
+      "name": "Morning Row",
+      "subtype": "Rowing",
+      "type": "Rowing",
+      "url": "https://www.strava.com/activities/18807055095",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -31337,12 +31346,13 @@
         },
         "2026-06-06": {
           "activity_ids": [
-            "18805827307"
+            "18805827307",
+            "18807055095"
           ],
-          "count": 1,
-          "distance": 677.1,
+          "count": 2,
+          "distance": 1360.2,
           "elevation_gain": 0.0,
-          "moving_time": 127.0
+          "moving_time": 286.0
         }
       },
       "Run": {
@@ -32245,7 +32255,7 @@
       }
     }
   },
-  "generated_at": "2026-06-06T09:23:00.266720+00:00",
+  "generated_at": "2026-06-06T11:22:28.749535+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/100675368",
   "repo": "JamesJacouris/git-sweaty",
