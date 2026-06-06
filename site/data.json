@@ -17009,6 +17009,15 @@
       "type": "Rowing",
       "url": "https://www.strava.com/activities/18813159720",
       "year": 2026
+    },
+    {
+      "date": "2026-06-06",
+      "hour": 18,
+      "name": "Evening Row",
+      "subtype": "Rowing",
+      "type": "Rowing",
+      "url": "https://www.strava.com/activities/18813877768",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -31367,12 +31376,13 @@
             "18805827307",
             "18807055095",
             "18812279702",
-            "18813159720"
+            "18813159720",
+            "18813877768"
           ],
-          "count": 4,
-          "distance": 2759.7,
+          "count": 5,
+          "distance": 3550.6,
           "elevation_gain": 0.0,
-          "moving_time": 660.0
+          "moving_time": 917.0
         }
       },
       "Run": {
@@ -32275,7 +32285,7 @@
       }
     }
   },
-  "generated_at": "2026-06-06T17:07:16.760012+00:00",
+  "generated_at": "2026-06-06T19:15:43.745800+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/100675368",
   "repo": "JamesJacouris/git-sweaty",
