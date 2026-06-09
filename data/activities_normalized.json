@@ -24620,5 +24620,18 @@
     "start_date_local": "2026-06-08T14:05:51Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-06-09",
+    "distance": 33606.0,
+    "elevation_gain": 93.0,
+    "id": "18850705333",
+    "moving_time": 3618.0,
+    "name": "CF11 Foundation Ride",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-06-09T13:38:20Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
