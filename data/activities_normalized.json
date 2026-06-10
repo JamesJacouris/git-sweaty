@@ -24627,7 +24627,7 @@
     "elevation_gain": 93.0,
     "id": "18850705333",
     "moving_time": 3618.0,
-    "name": "CF11 Foundation Ride",
+    "name": "10.1 Base Miles",
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
     "start_date_local": "2026-06-09T13:38:20Z",
@@ -24640,11 +24640,24 @@
     "elevation_gain": 37.0,
     "id": "18854954797",
     "moving_time": 3074.0,
-    "name": "Evening Run",
+    "name": "10.2 3x2km",
     "raw_activity_type": "Run",
     "raw_type": "Run",
     "start_date_local": "2026-06-09T18:35:04Z",
     "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-10",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18858008002",
+    "moving_time": 1513.0,
+    "name": "Night Yoga",
+    "raw_activity_type": "Yoga",
+    "raw_type": "Yoga",
+    "start_date_local": "2026-06-10T00:20:09Z",
+    "type": "Yoga",
     "year": 2026
   }
 ]
