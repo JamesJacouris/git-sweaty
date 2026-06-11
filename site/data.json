@@ -17090,6 +17090,24 @@
       "type": "Yoga",
       "url": "https://www.strava.com/activities/18864959973",
       "year": 2026
+    },
+    {
+      "date": "2026-06-11",
+      "hour": 13,
+      "name": "10.4 Tempo Intervals",
+      "subtype": "VirtualRide",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18878370747",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-11",
+      "hour": 15,
+      "name": "Afternoon Yoga",
+      "subtype": "Yoga",
+      "type": "Yoga",
+      "url": "https://www.strava.com/activities/18878698583",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -31135,6 +31153,15 @@
           "distance": 40632.0,
           "elevation_gain": 106.0,
           "moving_time": 4596.0
+        },
+        "2026-06-11": {
+          "activity_ids": [
+            "18878370747"
+          ],
+          "count": 1,
+          "distance": 50083.1,
+          "elevation_gain": 272.4,
+          "moving_time": 5572.0
         }
       },
       "Rowing": {
@@ -32417,11 +32444,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 2796.0
+        },
+        "2026-06-11": {
+          "activity_ids": [
+            "18878698583"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 795.0
         }
       }
     }
   },
-  "generated_at": "2026-06-11T12:41:26.659918+00:00",
+  "generated_at": "2026-06-11T16:50:21.339098+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/100675368",
   "repo": "JamesJacouris/git-sweaty",

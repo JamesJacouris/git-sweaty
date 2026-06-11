@@ -24685,5 +24685,31 @@
     "start_date_local": "2026-06-10T14:09:36Z",
     "type": "Yoga",
     "year": 2026
+  },
+  {
+    "date": "2026-06-11",
+    "distance": 50083.1,
+    "elevation_gain": 272.4,
+    "id": "18878370747",
+    "moving_time": 5572.0,
+    "name": "10.4 Tempo Intervals",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-06-11T13:24:02Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-11",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18878698583",
+    "moving_time": 795.0,
+    "name": "Afternoon Yoga",
+    "raw_activity_type": "Yoga",
+    "raw_type": "Yoga",
+    "start_date_local": "2026-06-11T15:10:17Z",
+    "type": "Yoga",
+    "year": 2026
   }
 ]
