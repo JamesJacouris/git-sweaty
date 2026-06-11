@@ -17108,6 +17108,15 @@
       "type": "Yoga",
       "url": "https://www.strava.com/activities/18878698583",
       "year": 2026
+    },
+    {
+      "date": "2026-06-11",
+      "hour": 17,
+      "name": "10.5 Base",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18881023590",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -31884,6 +31893,15 @@
           "distance": 11161.7,
           "elevation_gain": 37.0,
           "moving_time": 3074.0
+        },
+        "2026-06-11": {
+          "activity_ids": [
+            "18881023590"
+          ],
+          "count": 1,
+          "distance": 10124.1,
+          "elevation_gain": 58.0,
+          "moving_time": 3104.0
         }
       },
       "Surfing": {
@@ -32457,7 +32475,7 @@
       }
     }
   },
-  "generated_at": "2026-06-11T16:50:21.339098+00:00",
+  "generated_at": "2026-06-11T19:32:35.506532+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/100675368",
   "repo": "JamesJacouris/git-sweaty",

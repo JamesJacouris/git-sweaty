@@ -24711,5 +24711,18 @@
     "start_date_local": "2026-06-11T15:10:17Z",
     "type": "Yoga",
     "year": 2026
+  },
+  {
+    "date": "2026-06-11",
+    "distance": 10124.1,
+    "elevation_gain": 58.0,
+    "id": "18881023590",
+    "moving_time": 3104.0,
+    "name": "10.5 Base",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-11T17:44:51Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
