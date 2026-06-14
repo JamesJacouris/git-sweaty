@@ -17117,6 +17117,42 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18881023590",
       "year": 2026
+    },
+    {
+      "date": "2026-06-13",
+      "hour": 14,
+      "name": "Afternoon Row",
+      "subtype": "Rowing",
+      "type": "Rowing",
+      "url": "https://www.strava.com/activities/18913009055",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-14",
+      "hour": 10,
+      "name": "Z2",
+      "subtype": "VirtualRide",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18914422167",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-14",
+      "hour": 10,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18914514542",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-14",
+      "hour": 11,
+      "name": "Lunch Yoga",
+      "subtype": "Yoga",
+      "type": "Yoga",
+      "url": "https://www.strava.com/activities/18914861761",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -31171,6 +31207,16 @@
           "distance": 50083.1,
           "elevation_gain": 272.4,
           "moving_time": 5572.0
+        },
+        "2026-06-14": {
+          "activity_ids": [
+            "18914422167",
+            "18914514542"
+          ],
+          "count": 2,
+          "distance": 54688.8,
+          "elevation_gain": 227.2,
+          "moving_time": 7329.0
         }
       },
       "Rowing": {
@@ -31518,6 +31564,15 @@
           "distance": 3550.6,
           "elevation_gain": 0.0,
           "moving_time": 917.0
+        },
+        "2026-06-13": {
+          "activity_ids": [
+            "18913009055"
+          ],
+          "count": 1,
+          "distance": 721.3,
+          "elevation_gain": 0.0,
+          "moving_time": 163.0
         }
       },
       "Run": {
@@ -32471,11 +32526,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 795.0
+        },
+        "2026-06-14": {
+          "activity_ids": [
+            "18914861761"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 754.0
         }
       }
     }
   },
-  "generated_at": "2026-06-14T08:11:53.965771+00:00",
+  "generated_at": "2026-06-14T11:27:21.269219+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/100675368",
   "repo": "JamesJacouris/git-sweaty",
