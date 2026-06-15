@@ -24789,5 +24789,44 @@
     "start_date_local": "2026-06-14T18:14:21Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-14",
+    "distance": 790.6,
+    "elevation_gain": 9.0,
+    "id": "18927962466",
+    "moving_time": 135.0,
+    "name": "Evening Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-14T20:02:49Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-15",
+    "distance": 25129.1,
+    "elevation_gain": 0.0,
+    "id": "18928515534",
+    "moving_time": 2731.0,
+    "name": "Base Miles #2",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-06-15T12:45:25Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-15",
+    "distance": 19108.9,
+    "elevation_gain": 0.0,
+    "id": "18928529715",
+    "moving_time": 2725.0,
+    "name": "Lunch Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-15T12:45:24Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
