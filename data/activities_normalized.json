@@ -24828,5 +24828,18 @@
     "start_date_local": "2026-06-15T12:45:24Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-16",
+    "distance": 31756.7,
+    "elevation_gain": 92.6,
+    "id": "18943479307",
+    "moving_time": 3488.0,
+    "name": "Endurance #7",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-06-16T13:41:22Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]

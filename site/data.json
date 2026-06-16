@@ -17189,6 +17189,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18928529715",
       "year": 2026
+    },
+    {
+      "date": "2026-06-16",
+      "hour": 13,
+      "name": "Endurance #7",
+      "subtype": "VirtualRide",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18943479307",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -31265,6 +31274,15 @@
           "distance": 44238.0,
           "elevation_gain": 0.0,
           "moving_time": 5456.0
+        },
+        "2026-06-16": {
+          "activity_ids": [
+            "18943479307"
+          ],
+          "count": 1,
+          "distance": 31756.7,
+          "elevation_gain": 92.6,
+          "moving_time": 3488.0
         }
       },
       "Rowing": {
@@ -32587,7 +32605,7 @@
       }
     }
   },
-  "generated_at": "2026-06-16T12:09:53.309898+00:00",
+  "generated_at": "2026-06-16T21:40:20.854773+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/100675368",
   "repo": "JamesJacouris/git-sweaty",
