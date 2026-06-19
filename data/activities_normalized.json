@@ -24867,5 +24867,18 @@
     "start_date_local": "2026-06-18T18:11:59Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-06-19",
+    "distance": 30529.9,
+    "elevation_gain": 0.0,
+    "id": "18987288869",
+    "moving_time": 3314.0,
+    "name": "Endurance #7",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-06-19T18:11:37Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
