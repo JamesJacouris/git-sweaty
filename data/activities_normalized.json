@@ -24919,5 +24919,31 @@
     "start_date_local": "2026-06-21T15:29:59Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-22",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19027143924",
+    "moving_time": 2777.0,
+    "name": "Evening Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-06-22T20:57:40Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-22",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19027280723",
+    "moving_time": 850.0,
+    "name": "Night Yoga",
+    "raw_activity_type": "Yoga",
+    "raw_type": "Yoga",
+    "start_date_local": "2026-06-22T21:44:44Z",
+    "type": "Yoga",
+    "year": 2026
   }
 ]
