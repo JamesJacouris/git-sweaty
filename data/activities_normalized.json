@@ -24945,5 +24945,18 @@
     "start_date_local": "2026-06-22T21:44:44Z",
     "type": "Yoga",
     "year": 2026
+  },
+  {
+    "date": "2026-06-23",
+    "distance": 32242.7,
+    "elevation_gain": 481.0,
+    "id": "19033309221",
+    "moving_time": 4790.0,
+    "name": "Morning Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-23T09:24:48Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
