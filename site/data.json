@@ -17301,10 +17301,28 @@
     {
       "date": "2026-06-24",
       "hour": 17,
-      "name": "Evening Ride",
+      "name": "12.3 Foundation",
       "subtype": "Ride",
       "type": "Ride",
       "url": "https://www.strava.com/activities/19052218618",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-24",
+      "hour": 22,
+      "name": "Night Weight Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/19054687526",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-24",
+      "hour": 22,
+      "name": "Night Yoga",
+      "subtype": "Yoga",
+      "type": "Yoga",
+      "url": "https://www.strava.com/activities/19054687530",
       "year": 2026
     }
   ],
@@ -32357,12 +32375,13 @@
         },
         "2026-06-24": {
           "activity_ids": [
-            "19048428533"
+            "19048428533",
+            "19054687526"
           ],
-          "count": 1,
+          "count": 2,
           "distance": 0.0,
           "elevation_gain": 0.0,
-          "moving_time": 2469.0
+          "moving_time": 4220.0
         }
       },
       "Workout": {
@@ -32809,11 +32828,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 850.0
+        },
+        "2026-06-24": {
+          "activity_ids": [
+            "19054687530"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 398.0
         }
       }
     }
   },
-  "generated_at": "2026-06-24T20:45:32.469159+00:00",
+  "generated_at": "2026-06-24T22:13:18.704860+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/100675368",
   "repo": "JamesJacouris/git-sweaty",

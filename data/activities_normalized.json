@@ -24991,11 +24991,37 @@
     "elevation_gain": 476.0,
     "id": "19052218618",
     "moving_time": 3868.0,
-    "name": "Evening Ride",
+    "name": "12.3 Foundation",
     "raw_activity_type": "Ride",
     "raw_type": "Ride",
     "start_date_local": "2026-06-24T17:49:48Z",
     "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-24",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19054687526",
+    "moving_time": 1751.0,
+    "name": "Night Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-06-24T22:05:25Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-24",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19054687530",
+    "moving_time": 398.0,
+    "name": "Night Yoga",
+    "raw_activity_type": "Yoga",
+    "raw_type": "Yoga",
+    "start_date_local": "2026-06-24T22:34:54Z",
+    "type": "Yoga",
     "year": 2026
   }
 ]
