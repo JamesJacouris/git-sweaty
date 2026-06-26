@@ -17342,6 +17342,24 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/19072632265",
       "year": 2026
+    },
+    {
+      "date": "2026-06-26",
+      "hour": 14,
+      "name": "Afternoon Swim",
+      "subtype": "Swim",
+      "type": "Swim",
+      "url": "https://www.strava.com/activities/19075059532",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-26",
+      "hour": 15,
+      "name": "Afternoon Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19075059677",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -32230,6 +32248,15 @@
           "distance": 12091.5,
           "elevation_gain": 70.0,
           "moving_time": 3602.0
+        },
+        "2026-06-26": {
+          "activity_ids": [
+            "19075059677"
+          ],
+          "count": 1,
+          "distance": 10180.9,
+          "elevation_gain": 172.0,
+          "moving_time": 3226.0
         }
       },
       "Surfing": {
@@ -32241,6 +32268,17 @@
           "distance": 2657.1,
           "elevation_gain": 8.3,
           "moving_time": 3489.0
+        }
+      },
+      "Swim": {
+        "2026-06-26": {
+          "activity_ids": [
+            "19075059532"
+          ],
+          "count": 1,
+          "distance": 1800.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2154.0
         }
       },
       "Walk": {
@@ -32877,7 +32915,7 @@
       }
     }
   },
-  "generated_at": "2026-06-26T13:08:01.706249+00:00",
+  "generated_at": "2026-06-26T16:12:34.828155+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/100675368",
   "repo": "JamesJacouris/git-sweaty",
