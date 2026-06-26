@@ -17328,7 +17328,7 @@
     {
       "date": "2026-06-25",
       "hour": 17,
-      "name": "Evening Ride",
+      "name": "12.4 Tempo",
       "subtype": "Ride",
       "type": "Ride",
       "url": "https://www.strava.com/activities/19064887552",
@@ -17346,7 +17346,7 @@
     {
       "date": "2026-06-26",
       "hour": 14,
-      "name": "Afternoon Swim",
+      "name": "12.5 Afternoon Swim",
       "subtype": "Swim",
       "type": "Swim",
       "url": "https://www.strava.com/activities/19075059532",
@@ -17355,7 +17355,7 @@
     {
       "date": "2026-06-26",
       "hour": 15,
-      "name": "Afternoon Run",
+      "name": "12.6 Sweaty foundation Run",
       "subtype": "Run",
       "type": "Run",
       "url": "https://www.strava.com/activities/19075059677",
@@ -32915,7 +32915,7 @@
       }
     }
   },
-  "generated_at": "2026-06-26T20:43:53.678848+00:00",
+  "generated_at": "2026-06-26T22:08:40.131012+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/100675368",
   "repo": "JamesJacouris/git-sweaty",
