@@ -25075,5 +25075,18 @@
     "start_date_local": "2026-06-26T15:26:10Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-27",
+    "distance": 107136.0,
+    "elevation_gain": 906.0,
+    "id": "19086939012",
+    "moving_time": 13023.0,
+    "name": "12.7 Long ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-27T12:01:21Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
