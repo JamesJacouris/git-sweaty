@@ -25114,5 +25114,31 @@
     "start_date_local": "2026-06-28T22:20:02Z",
     "type": "Yoga",
     "year": 2026
+  },
+  {
+    "date": "2026-06-29",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19115570632",
+    "moving_time": 1889.0,
+    "name": "Night Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-06-29T21:26:45Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-29",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19115628805",
+    "moving_time": 347.0,
+    "name": "Night Yoga",
+    "raw_activity_type": "Yoga",
+    "raw_type": "Yoga",
+    "start_date_local": "2026-06-29T21:59:07Z",
+    "type": "Yoga",
+    "year": 2026
   }
 ]
