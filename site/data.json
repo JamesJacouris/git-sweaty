@@ -17405,6 +17405,15 @@
       "type": "Yoga",
       "url": "https://www.strava.com/activities/19115628805",
       "year": 2026
+    },
+    {
+      "date": "2026-06-30",
+      "hour": 9,
+      "name": "13.1 4x2k with Adam",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19121087556",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -32320,6 +32329,15 @@
           "distance": 24123.8,
           "elevation_gain": 142.0,
           "moving_time": 7425.0
+        },
+        "2026-06-30": {
+          "activity_ids": [
+            "19121087556"
+          ],
+          "count": 1,
+          "distance": 15072.3,
+          "elevation_gain": 82.0,
+          "moving_time": 4240.0
         }
       },
       "Surfing": {
@@ -33005,7 +33023,7 @@
       }
     }
   },
-  "generated_at": "2026-06-30T08:26:57.769235+00:00",
+  "generated_at": "2026-06-30T11:42:31.144545+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/100675368",
   "repo": "JamesJacouris/git-sweaty",

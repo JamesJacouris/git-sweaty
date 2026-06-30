@@ -25140,5 +25140,18 @@
     "start_date_local": "2026-06-29T21:59:07Z",
     "type": "Yoga",
     "year": 2026
+  },
+  {
+    "date": "2026-06-30",
+    "distance": 15072.3,
+    "elevation_gain": 82.0,
+    "id": "19121087556",
+    "moving_time": 4240.0,
+    "name": "13.1 4x2k with Adam",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-30T09:36:27Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
