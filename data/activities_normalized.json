@@ -25166,5 +25166,18 @@
     "start_date_local": "2026-06-30T18:30:37Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-07-01",
+    "distance": 46523.8,
+    "elevation_gain": 731.0,
+    "id": "19137481578",
+    "moving_time": 5829.0,
+    "name": "13.3 Recovery/Base",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-01T12:50:37Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]

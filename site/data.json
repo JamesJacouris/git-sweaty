@@ -17423,6 +17423,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/19127476985",
       "year": 2026
+    },
+    {
+      "date": "2026-07-01",
+      "hour": 12,
+      "name": "13.3 Recovery/Base",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19137481578",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -31571,6 +31580,15 @@
           "distance": 27609.0,
           "elevation_gain": 445.0,
           "moving_time": 3332.0
+        },
+        "2026-07-01": {
+          "activity_ids": [
+            "19137481578"
+          ],
+          "count": 1,
+          "distance": 46523.8,
+          "elevation_gain": 731.0,
+          "moving_time": 5829.0
         }
       },
       "Rowing": {
@@ -33041,7 +33059,7 @@
       }
     }
   },
-  "generated_at": "2026-07-01T11:57:30.810592+00:00",
+  "generated_at": "2026-07-01T14:36:45.516271+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/100675368",
   "repo": "JamesJacouris/git-sweaty",
