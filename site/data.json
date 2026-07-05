@@ -17459,6 +17459,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/19172522499",
       "year": 2026
+    },
+    {
+      "date": "2026-07-05",
+      "hour": 20,
+      "name": "MyWhoosh - Kluisbergen",
+      "subtype": "VirtualRide",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19194558680",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -31625,6 +31634,15 @@
           "distance": 27598.0,
           "elevation_gain": 439.0,
           "moving_time": 3467.0
+        },
+        "2026-07-05": {
+          "activity_ids": [
+            "19194558680"
+          ],
+          "count": 1,
+          "distance": 35958.2,
+          "elevation_gain": 249.8,
+          "moving_time": 4379.0
         }
       },
       "Rowing": {
@@ -33113,7 +33131,7 @@
       }
     }
   },
-  "generated_at": "2026-07-05T20:54:38.885948+00:00",
+  "generated_at": "2026-07-05T21:57:46.694653+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/100675368",
   "repo": "JamesJacouris/git-sweaty",
