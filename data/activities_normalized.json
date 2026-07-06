@@ -25244,5 +25244,18 @@
     "start_date_local": "2026-07-06T15:53:26Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-07-06",
+    "distance": 3003.3,
+    "elevation_gain": 0.0,
+    "id": "19204104208",
+    "moving_time": 3958.0,
+    "name": "14.1 Better Train the bike more",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-07-06T17:33:28Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
