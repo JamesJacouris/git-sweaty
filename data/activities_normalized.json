@@ -25296,5 +25296,18 @@
     "start_date_local": "2026-07-08T12:27:44Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-07-09",
+    "distance": 28033.8,
+    "elevation_gain": 141.0,
+    "id": "19244119429",
+    "moving_time": 8289.0,
+    "name": "14.5 28km of battling the heat",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-09T13:52:47Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
