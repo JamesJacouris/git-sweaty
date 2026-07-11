@@ -17540,6 +17540,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/19254074415",
       "year": 2026
+    },
+    {
+      "date": "2026-07-11",
+      "hour": 7,
+      "name": "Morning Swim",
+      "subtype": "Swim",
+      "type": "Swim",
+      "url": "https://www.strava.com/activities/19264507543",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -32603,6 +32612,15 @@
           "distance": 3003.3,
           "elevation_gain": 0.0,
           "moving_time": 3958.0
+        },
+        "2026-07-11": {
+          "activity_ids": [
+            "19264507543"
+          ],
+          "count": 1,
+          "distance": 1734.1,
+          "elevation_gain": 0.0,
+          "moving_time": 2236.0
         }
       },
       "Walk": {
@@ -33275,7 +33293,7 @@
       }
     }
   },
-  "generated_at": "2026-07-11T07:09:07.352258+00:00",
+  "generated_at": "2026-07-11T09:24:00.950617+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/100675368",
   "repo": "JamesJacouris/git-sweaty",
