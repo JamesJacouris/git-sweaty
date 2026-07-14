@@ -17585,6 +17585,24 @@
       "type": "Swim",
       "url": "https://www.strava.com/activities/19297630527",
       "year": 2026
+    },
+    {
+      "date": "2026-07-14",
+      "hour": 17,
+      "name": "15.2 3x2k",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19312222158",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-14",
+      "hour": 18,
+      "name": "15.3 Endurance #8",
+      "subtype": "VirtualRide",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19313625129",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -31805,6 +31823,15 @@
           "distance": 133870.0,
           "elevation_gain": 1017.0,
           "moving_time": 15736.0
+        },
+        "2026-07-14": {
+          "activity_ids": [
+            "19313625129"
+          ],
+          "count": 1,
+          "distance": 31673.8,
+          "elevation_gain": 92.4,
+          "moving_time": 3607.0
         }
       },
       "Rowing": {
@@ -32626,6 +32653,15 @@
           "distance": 28033.8,
           "elevation_gain": 141.0,
           "moving_time": 8289.0
+        },
+        "2026-07-14": {
+          "activity_ids": [
+            "19312222158"
+          ],
+          "count": 1,
+          "distance": 12524.1,
+          "elevation_gain": 75.0,
+          "moving_time": 3512.0
         }
       },
       "Surfing": {
@@ -33365,7 +33401,7 @@
       }
     }
   },
-  "generated_at": "2026-07-14T17:10:06.245370+00:00",
+  "generated_at": "2026-07-14T19:12:17.682340+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/100675368",
   "repo": "JamesJacouris/git-sweaty",

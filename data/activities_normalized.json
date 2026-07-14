@@ -25400,5 +25400,31 @@
     "start_date_local": "2026-07-13T17:18:52Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-07-14",
+    "distance": 12524.1,
+    "elevation_gain": 75.0,
+    "id": "19312222158",
+    "moving_time": 3512.0,
+    "name": "15.2 3x2k",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-14T17:08:29Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-14",
+    "distance": 31673.8,
+    "elevation_gain": 92.4,
+    "id": "19313625129",
+    "moving_time": 3607.0,
+    "name": "15.3 Endurance #8",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-07-14T18:59:32Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
