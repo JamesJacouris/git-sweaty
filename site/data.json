@@ -17612,6 +17612,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/19326971347",
       "year": 2026
+    },
+    {
+      "date": "2026-07-17",
+      "hour": 9,
+      "name": "15.5 To the Shelfords and back",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19348719438",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -32680,6 +32689,15 @@
           "distance": 12524.1,
           "elevation_gain": 75.0,
           "moving_time": 3512.0
+        },
+        "2026-07-17": {
+          "activity_ids": [
+            "19348719438"
+          ],
+          "count": 1,
+          "distance": 30053.5,
+          "elevation_gain": 126.0,
+          "moving_time": 8580.0
         }
       },
       "Surfing": {
@@ -33419,7 +33437,7 @@
       }
     }
   },
-  "generated_at": "2026-07-17T10:42:42.050201+00:00",
+  "generated_at": "2026-07-17T12:05:33.494075+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/100675368",
   "repo": "JamesJacouris/git-sweaty",
