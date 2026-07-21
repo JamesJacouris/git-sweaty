@@ -25511,11 +25511,24 @@
     "elevation_gain": 76.0,
     "id": "19405421361",
     "moving_time": 3382.0,
-    "name": "Afternoon Run",
+    "name": "16.2 3x2k",
     "raw_activity_type": "Run",
     "raw_type": "Run",
     "start_date_local": "2026-07-21T16:24:39Z",
     "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-21",
+    "distance": 32476.3,
+    "elevation_gain": 497.0,
+    "id": "19407029849",
+    "moving_time": 3722.0,
+    "name": "16.3 Just want to be a roadie again",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-21T18:08:58Z",
+    "type": "Ride",
     "year": 2026
   }
 ]
