@@ -25530,5 +25530,18 @@
     "start_date_local": "2026-07-21T18:08:58Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-07-22",
+    "distance": 29169.5,
+    "elevation_gain": 0.0,
+    "id": "19419676699",
+    "moving_time": 3339.0,
+    "name": "Recovery",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-07-22T16:04:43Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
