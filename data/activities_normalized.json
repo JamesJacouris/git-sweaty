@@ -25556,5 +25556,18 @@
     "start_date_local": "2026-07-22T17:22:16Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-07-22",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19424087028",
+    "moving_time": 3468.0,
+    "name": "Night Yoga",
+    "raw_activity_type": "Yoga",
+    "raw_type": "Yoga",
+    "start_date_local": "2026-07-22T22:03:21Z",
+    "type": "Yoga",
+    "year": 2026
   }
 ]
