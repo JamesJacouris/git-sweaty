@@ -17706,7 +17706,7 @@
     {
       "date": "2026-07-23",
       "hour": 15,
-      "name": "Afternoon Run",
+      "name": "16.5 (Cut short) Long run",
       "subtype": "Run",
       "type": "Run",
       "url": "https://www.strava.com/activities/19434669474",
@@ -33609,7 +33609,7 @@
       }
     }
   },
-  "generated_at": "2026-07-23T17:16:21.036162+00:00",
+  "generated_at": "2026-07-23T19:08:08.761245+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/100675368",
   "repo": "JamesJacouris/git-sweaty",
