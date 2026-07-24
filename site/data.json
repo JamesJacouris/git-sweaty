@@ -17679,7 +17679,7 @@
     {
       "date": "2026-07-22",
       "hour": 16,
-      "name": "Recovery",
+      "name": "16.4 Recovery",
       "subtype": "VirtualRide",
       "type": "Ride",
       "url": "https://www.strava.com/activities/19419676699",
@@ -33627,7 +33627,7 @@
       }
     }
   },
-  "generated_at": "2026-07-24T08:19:40.798918+00:00",
+  "generated_at": "2026-07-24T10:59:57.818837+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/100675368",
   "repo": "JamesJacouris/git-sweaty",
