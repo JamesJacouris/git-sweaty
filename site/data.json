@@ -17760,7 +17760,7 @@
     {
       "date": "2026-07-26",
       "hour": 11,
-      "name": "Morning Ride",
+      "name": "16.9 kinda longish bike",
       "subtype": "Ride",
       "type": "Ride",
       "url": "https://www.strava.com/activities/19473185713",
@@ -17769,7 +17769,7 @@
     {
       "date": "2026-07-26",
       "hour": 14,
-      "name": "Afternoon Run",
+      "name": "16.10 Rotb",
       "subtype": "Run",
       "type": "Run",
       "url": "https://www.strava.com/activities/19474157165",
@@ -33727,7 +33727,7 @@
       }
     }
   },
-  "generated_at": "2026-07-26T15:01:17.625438+00:00",
+  "generated_at": "2026-07-26T16:54:00.596207+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/100675368",
   "repo": "JamesJacouris/git-sweaty",
