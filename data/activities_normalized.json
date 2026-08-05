@@ -25855,5 +25855,18 @@
     "start_date_local": "2026-08-04T18:17:16Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-08-05",
+    "distance": 47044.5,
+    "elevation_gain": 738.0,
+    "id": "19609975438",
+    "moving_time": 6880.0,
+    "name": "Recovery with Adam",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-05T09:14:06Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
