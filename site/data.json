@@ -17981,6 +17981,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/19699853922",
       "year": 2026
+    },
+    {
+      "date": "2026-08-11",
+      "hour": 22,
+      "name": "Night Yoga",
+      "subtype": "Yoga",
+      "type": "Yoga",
+      "url": "https://www.strava.com/activities/19702487725",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -34121,11 +34130,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 1223.0
+        },
+        "2026-08-11": {
+          "activity_ids": [
+            "19702487725"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 749.0
         }
       }
     }
   },
-  "generated_at": "2026-08-11T21:41:33.039258+00:00",
+  "generated_at": "2026-08-11T22:36:43.626027+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/100675368",
   "repo": "JamesJacouris/git-sweaty",
