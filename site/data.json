@@ -17999,6 +17999,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/19707792557",
       "year": 2026
+    },
+    {
+      "date": "2026-08-12",
+      "hour": 10,
+      "name": "Recovery with Adam",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19710050621",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -32395,6 +32404,15 @@
           "distance": 101917.9,
           "elevation_gain": 1075.0,
           "moving_time": 12579.0
+        },
+        "2026-08-12": {
+          "activity_ids": [
+            "19710050621"
+          ],
+          "count": 1,
+          "distance": 59589.7,
+          "elevation_gain": 960.0,
+          "moving_time": 9099.0
         }
       },
       "Rowing": {
@@ -34153,7 +34171,7 @@
       }
     }
   },
-  "generated_at": "2026-08-12T11:52:11.536021+00:00",
+  "generated_at": "2026-08-12T12:58:22.186183+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/100675368",
   "repo": "JamesJacouris/git-sweaty",
