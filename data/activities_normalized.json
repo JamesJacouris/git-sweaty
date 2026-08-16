@@ -26076,5 +26076,31 @@
     "start_date_local": "2026-08-15T19:55:05Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-16",
+    "distance": 58171.7,
+    "elevation_gain": 79.8,
+    "id": "19765929180",
+    "moving_time": 6412.0,
+    "name": "Aerobic",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-08-16T11:40:50Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-16",
+    "distance": 50366.3,
+    "elevation_gain": 0.0,
+    "id": "19765947508",
+    "moving_time": 6502.0,
+    "name": "Lunch Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-16T11:39:24Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T11:16:09.093964+00:00",
+  "generated_at": "2026-08-16T12:29:58.206485+00:00",
   "years": {
     "2019": {
       "Workout": {
@@ -14413,6 +14413,16 @@
           "distance": 55146.7,
           "elevation_gain": 905.0,
           "moving_time": 6748.0
+        },
+        "2026-08-16": {
+          "activity_ids": [
+            "19765929180",
+            "19765947508"
+          ],
+          "count": 2,
+          "distance": 108538.0,
+          "elevation_gain": 79.8,
+          "moving_time": 12914.0
         }
       },
       "Rowing": {
