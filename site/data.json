@@ -18165,7 +18165,7 @@
     {
       "date": "2026-08-22",
       "hour": 15,
-      "name": "Afternoon Run",
+      "name": "IRONMAN TALLIN RUN - 10:27:45 Overall",
       "subtype": "Run",
       "type": "Run",
       "url": "https://www.strava.com/activities/19853691006",
@@ -18174,7 +18174,7 @@
     {
       "date": "2026-08-22",
       "hour": 8,
-      "name": "Morning Swim",
+      "name": "IRONMAN TALLINN SWIM - 1:21:02",
       "subtype": "Swim",
       "type": "Swim",
       "url": "https://www.strava.com/activities/19853691018",
@@ -18183,7 +18183,7 @@
     {
       "date": "2026-08-22",
       "hour": 10,
-      "name": "Morning Ride",
+      "name": "IRONMAN TALLINN BIKE - 4:59:33",
       "subtype": "Ride",
       "type": "Ride",
       "url": "https://www.strava.com/activities/19853691190",
@@ -34483,7 +34483,7 @@
       }
     }
   },
-  "generated_at": "2026-08-22T19:19:22.677823+00:00",
+  "generated_at": "2026-08-22T20:17:14.316737+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/100675368",
   "repo": "JamesJacouris/git-sweaty",
