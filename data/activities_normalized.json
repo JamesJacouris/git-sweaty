@@ -26284,5 +26284,18 @@
     "start_date_local": "2026-08-25T17:43:19Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-08-26",
+    "distance": 2107.3,
+    "elevation_gain": 8.8,
+    "id": "19909885846",
+    "moving_time": 1697.0,
+    "name": "Evening Stand Up Paddling",
+    "raw_activity_type": "StandUpPaddling",
+    "raw_type": "StandUpPaddling",
+    "start_date_local": "2026-08-26T18:11:56Z",
+    "type": "StandUpPaddling",
+    "year": 2026
   }
 ]
