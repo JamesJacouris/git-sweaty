@@ -26297,5 +26297,18 @@
     "start_date_local": "2026-08-26T18:11:56Z",
     "type": "StandUpPaddling",
     "year": 2026
+  },
+  {
+    "date": "2026-08-27",
+    "distance": 5077.9,
+    "elevation_gain": 75.0,
+    "id": "19924996857",
+    "moving_time": 1767.0,
+    "name": "Evening Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-27T18:59:16Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
