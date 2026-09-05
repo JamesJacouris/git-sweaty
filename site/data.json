@@ -18233,6 +18233,15 @@
       "type": "Yoga",
       "url": "https://www.strava.com/activities/20045000014",
       "year": 2026
+    },
+    {
+      "date": "2026-09-05",
+      "hour": 15,
+      "name": "Afternoon Weight Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/20048816377",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -34025,6 +34034,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 2410.0
+        },
+        "2026-09-05": {
+          "activity_ids": [
+            "20048816377"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 4019.0
         }
       },
       "Workout": {
@@ -34575,7 +34593,7 @@
       }
     }
   },
-  "generated_at": "2026-09-05T14:28:18.245897+00:00",
+  "generated_at": "2026-09-05T17:05:13.831409+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/100675368",
   "repo": "JamesJacouris/git-sweaty",
