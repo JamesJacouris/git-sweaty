@@ -26323,5 +26323,18 @@
     "start_date_local": "2026-09-03T11:42:55Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-09-05",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20045000014",
+    "moving_time": 792.0,
+    "name": "Lunch Yoga",
+    "raw_activity_type": "Yoga",
+    "raw_type": "Yoga",
+    "start_date_local": "2026-09-05T11:48:11Z",
+    "type": "Yoga",
+    "year": 2026
   }
 ]
