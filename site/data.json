@@ -18242,6 +18242,24 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/20048816377",
       "year": 2026
+    },
+    {
+      "date": "2026-09-06",
+      "hour": 20,
+      "name": "Evening Yoga",
+      "subtype": "Yoga",
+      "type": "Yoga",
+      "url": "https://www.strava.com/activities/20066186460",
+      "year": 2026
+    },
+    {
+      "date": "2026-09-07",
+      "hour": 12,
+      "name": "Lunch Hike",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/20073552843",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -31427,6 +31445,17 @@
           "moving_time": 2283.0
         }
       },
+      "Hike": {
+        "2026-09-07": {
+          "activity_ids": [
+            "20073552843"
+          ],
+          "count": 1,
+          "distance": 3689.6,
+          "elevation_gain": 201.0,
+          "moving_time": 3461.0
+        }
+      },
       "Ride": {
         "2026-01-01": {
           "activity_ids": [
@@ -34589,11 +34618,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 792.0
+        },
+        "2026-09-06": {
+          "activity_ids": [
+            "20066186460"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 371.0
         }
       }
     }
   },
-  "generated_at": "2026-09-06T14:50:09.395538+00:00",
+  "generated_at": "2026-09-08T17:02:30.183485+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/100675368",
   "repo": "JamesJacouris/git-sweaty",

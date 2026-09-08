@@ -26349,5 +26349,31 @@
     "start_date_local": "2026-09-05T15:14:09Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-09-06",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20066186460",
+    "moving_time": 371.0,
+    "name": "Evening Yoga",
+    "raw_activity_type": "Yoga",
+    "raw_type": "Yoga",
+    "start_date_local": "2026-09-06T20:23:39Z",
+    "type": "Yoga",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-07",
+    "distance": 3689.6,
+    "elevation_gain": 201.0,
+    "id": "20073552843",
+    "moving_time": 3461.0,
+    "name": "Lunch Hike",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-09-07T12:56:44Z",
+    "type": "Hike",
+    "year": 2026
   }
 ]
