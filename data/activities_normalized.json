@@ -26401,5 +26401,18 @@
     "start_date_local": "2026-09-11T18:15:15Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-09-12",
+    "distance": 7553.5,
+    "elevation_gain": 83.0,
+    "id": "20139065341",
+    "moving_time": 2418.0,
+    "name": "We\u2019re so back",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-12T07:33:37Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
