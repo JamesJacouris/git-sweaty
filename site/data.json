@@ -18332,6 +18332,15 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/20174175510",
       "year": 2026
+    },
+    {
+      "date": "2026-09-15",
+      "hour": 17,
+      "name": "New (old) bike day",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/20188724822",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -32817,6 +32826,15 @@
           "distance": 57956.0,
           "elevation_gain": 193.0,
           "moving_time": 6984.0
+        },
+        "2026-09-15": {
+          "activity_ids": [
+            "20188724822"
+          ],
+          "count": 1,
+          "distance": 27595.8,
+          "elevation_gain": 462.0,
+          "moving_time": 3312.0
         }
       },
       "Rowing": {
@@ -34767,7 +34785,7 @@
       }
     }
   },
-  "generated_at": "2026-09-15T15:26:04.920691+00:00",
+  "generated_at": "2026-09-15T19:28:59.310041+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/100675368",
   "repo": "JamesJacouris/git-sweaty",
