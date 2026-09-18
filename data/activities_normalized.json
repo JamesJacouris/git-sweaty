@@ -26544,5 +26544,18 @@
     "start_date_local": "2026-09-17T20:14:49Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-09-18",
+    "distance": 26809.9,
+    "elevation_gain": 113.0,
+    "id": "20230302382",
+    "moving_time": 3005.0,
+    "name": "Quick spin turbo edition",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-09-18T18:02:04Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
