@@ -26557,5 +26557,18 @@
     "start_date_local": "2026-09-18T18:02:04Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-09-19",
+    "distance": 27630.3,
+    "elevation_gain": 481.0,
+    "id": "20241634884",
+    "moving_time": 3307.0,
+    "name": "Quick spin",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-09-19T14:31:33Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
