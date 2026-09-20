@@ -18404,6 +18404,15 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/20244689944",
       "year": 2026
+    },
+    {
+      "date": "2026-09-20",
+      "hour": 15,
+      "name": "Afternoon Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20256809687",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -33902,6 +33911,15 @@
           "distance": 6507.6,
           "elevation_gain": 74.0,
           "moving_time": 2093.0
+        },
+        "2026-09-20": {
+          "activity_ids": [
+            "20256809687"
+          ],
+          "count": 1,
+          "distance": 7968.4,
+          "elevation_gain": 92.0,
+          "moving_time": 2507.0
         }
       },
       "StandUpPaddling": {
@@ -34887,7 +34905,7 @@
       }
     }
   },
-  "generated_at": "2026-09-20T14:27:30.195065+00:00",
+  "generated_at": "2026-09-20T17:54:16.039861+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/100675368",
   "repo": "JamesJacouris/git-sweaty",
