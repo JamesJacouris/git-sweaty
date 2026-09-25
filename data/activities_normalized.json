@@ -26622,5 +26622,18 @@
     "start_date_local": "2026-09-23T20:25:57Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-09-25",
+    "distance": 46620.3,
+    "elevation_gain": 675.0,
+    "id": "20322450286",
+    "moving_time": 5996.0,
+    "name": "NBD!",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-09-25T10:41:33Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
