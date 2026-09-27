@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T12:40:40.929331+00:00",
+  "generated_at": "2026-09-27T17:25:23.264041+00:00",
   "years": {
     "2019": {
       "Workout": {
@@ -15541,6 +15541,15 @@
           "distance": 4460.1,
           "elevation_gain": 14.0,
           "moving_time": 1700.0
+        },
+        "2026-09-27": {
+          "activity_ids": [
+            "20354232427"
+          ],
+          "count": 1,
+          "distance": 10770.4,
+          "elevation_gain": 62.0,
+          "moving_time": 3427.0
         }
       },
       "StandUpPaddling": {
