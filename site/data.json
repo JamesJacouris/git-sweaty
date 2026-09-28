@@ -18458,6 +18458,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20354232427",
       "year": 2026
+    },
+    {
+      "date": "2026-09-28",
+      "hour": 12,
+      "name": "Wow this gravel thing is insanely fun",
+      "subtype": "GravelRide",
+      "type": "GravelRide",
+      "url": "https://www.strava.com/activities/20364168868",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -31643,6 +31652,17 @@
           "moving_time": 2283.0
         }
       },
+      "GravelRide": {
+        "2026-09-28": {
+          "activity_ids": [
+            "20364168868"
+          ],
+          "count": 1,
+          "distance": 60270.6,
+          "elevation_gain": 652.0,
+          "moving_time": 8177.0
+        }
+      },
       "Hike": {
         "2026-09-07": {
           "activity_ids": [
@@ -34995,7 +35015,7 @@
       }
     }
   },
-  "generated_at": "2026-09-28T10:27:47.473394+00:00",
+  "generated_at": "2026-09-28T18:22:45.872614+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/100675368",
   "repo": "JamesJacouris/git-sweaty",
@@ -35005,6 +35025,10 @@
     "AlpineSki": {
       "accent": "#72efdd",
       "label": "Alpine Ski"
+    },
+    "GravelRide": {
+      "accent": "#00f5d4",
+      "label": "Gravel Ride"
     },
     "Hike": {
       "accent": "#d6ff6b",
@@ -35085,6 +35109,7 @@
   },
   "types": [
     "AlpineSki",
+    "GravelRide",
     "Hike",
     "IceSkate",
     "MountainBikeRide",

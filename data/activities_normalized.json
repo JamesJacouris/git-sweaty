@@ -26661,5 +26661,18 @@
     "start_date_local": "2026-09-27T15:42:32Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-28",
+    "distance": 60270.6,
+    "elevation_gain": 652.0,
+    "id": "20364168868",
+    "moving_time": 8177.0,
+    "name": "Wow this gravel thing is insanely fun",
+    "raw_activity_type": "Ride",
+    "raw_type": "GravelRide",
+    "start_date_local": "2026-09-28T12:10:43Z",
+    "type": "GravelRide",
+    "year": 2026
   }
 ]
