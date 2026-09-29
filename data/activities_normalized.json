@@ -26687,5 +26687,18 @@
     "start_date_local": "2026-09-28T12:11:11Z",
     "type": "GravelRide",
     "year": 2026
+  },
+  {
+    "date": "2026-09-29",
+    "distance": 36060.5,
+    "elevation_gain": 422.0,
+    "id": "20379523265",
+    "moving_time": 5230.0,
+    "name": "Quick gravel spin",
+    "raw_activity_type": "Ride",
+    "raw_type": "GravelRide",
+    "start_date_local": "2026-09-29T14:42:22Z",
+    "type": "GravelRide",
+    "year": 2026
   }
 ]
