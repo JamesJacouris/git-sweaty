@@ -18467,6 +18467,15 @@
       "type": "GravelRide",
       "url": "https://www.strava.com/activities/20364168868",
       "year": 2026
+    },
+    {
+      "date": "2026-09-28",
+      "hour": 12,
+      "name": "Lunch Gravel Ride",
+      "subtype": "GravelRide",
+      "type": "GravelRide",
+      "url": "https://www.strava.com/activities/20371768503",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -31655,12 +31664,13 @@
       "GravelRide": {
         "2026-09-28": {
           "activity_ids": [
-            "20364168868"
+            "20364168868",
+            "20371768503"
           ],
-          "count": 1,
-          "distance": 60270.6,
-          "elevation_gain": 652.0,
-          "moving_time": 8177.0
+          "count": 2,
+          "distance": 120577.9,
+          "elevation_gain": 1233.0,
+          "moving_time": 16455.0
         }
       },
       "Hike": {
@@ -35015,7 +35025,7 @@
       }
     }
   },
-  "generated_at": "2026-09-28T23:38:54.361630+00:00",
+  "generated_at": "2026-09-29T03:55:34.196316+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/100675368",
   "repo": "JamesJacouris/git-sweaty",

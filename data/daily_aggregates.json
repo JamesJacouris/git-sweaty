@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T23:38:54.336328+00:00",
+  "generated_at": "2026-09-29T03:55:34.169631+00:00",
   "years": {
     "2019": {
       "Workout": {
@@ -13186,12 +13186,13 @@
       "GravelRide": {
         "2026-09-28": {
           "activity_ids": [
-            "20364168868"
+            "20364168868",
+            "20371768503"
           ],
-          "count": 1,
-          "distance": 60270.6,
-          "elevation_gain": 652.0,
-          "moving_time": 8177.0
+          "count": 2,
+          "distance": 120577.9,
+          "elevation_gain": 1233.0,
+          "moving_time": 16455.0
         }
       },
       "Hike": {
