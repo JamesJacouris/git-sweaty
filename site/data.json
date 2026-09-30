@@ -18485,6 +18485,24 @@
       "type": "GravelRide",
       "url": "https://www.strava.com/activities/20379523265",
       "year": 2026
+    },
+    {
+      "date": "2026-09-30",
+      "hour": 13,
+      "name": "Afternoon Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/20393026966",
+      "year": 2026
+    },
+    {
+      "date": "2026-09-30",
+      "hour": 15,
+      "name": "Afternoon Weight Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/20394213557",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -33057,6 +33075,15 @@
           "distance": 22921.6,
           "elevation_gain": 335.0,
           "moving_time": 2948.0
+        },
+        "2026-09-30": {
+          "activity_ids": [
+            "20393026966"
+          ],
+          "count": 1,
+          "distance": 21693.1,
+          "elevation_gain": 170.0,
+          "moving_time": 2982.0
         }
       },
       "Rowing": {
@@ -34484,6 +34511,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 3159.0
+        },
+        "2026-09-30": {
+          "activity_ids": [
+            "20394213557"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3306.0
         }
       },
       "Workout": {
@@ -35043,7 +35079,7 @@
       }
     }
   },
-  "generated_at": "2026-09-30T13:17:41.487867+00:00",
+  "generated_at": "2026-09-30T18:47:43.404426+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/100675368",
   "repo": "JamesJacouris/git-sweaty",
