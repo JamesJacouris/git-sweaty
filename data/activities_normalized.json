@@ -26752,5 +26752,44 @@
     "start_date_local": "2026-10-03T15:25:47Z",
     "type": "GravelRide",
     "year": 2026
+  },
+  {
+    "date": "2026-10-04",
+    "distance": 7809.5,
+    "elevation_gain": 43.0,
+    "id": "20445142520",
+    "moving_time": 1129.0,
+    "name": "Lunch Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-10-04T11:10:13Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-04",
+    "distance": 7847.4,
+    "elevation_gain": 31.0,
+    "id": "20446432760",
+    "moving_time": 1126.0,
+    "name": "Morning Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-10-04T11:10:14Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-04",
+    "distance": 12053.2,
+    "elevation_gain": 86.0,
+    "id": "20447192283",
+    "moving_time": 1837.0,
+    "name": "Lunch Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-10-04T12:51:36Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]

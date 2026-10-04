@@ -18521,6 +18521,33 @@
       "type": "GravelRide",
       "url": "https://www.strava.com/activities/20435890388",
       "year": 2026
+    },
+    {
+      "date": "2026-10-04",
+      "hour": 11,
+      "name": "Lunch Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/20445142520",
+      "year": 2026
+    },
+    {
+      "date": "2026-10-04",
+      "hour": 11,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/20446432760",
+      "year": 2026
+    },
+    {
+      "date": "2026-10-04",
+      "hour": 12,
+      "name": "Lunch Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/20447192283",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -33111,6 +33138,17 @@
           "distance": 22921.6,
           "elevation_gain": 335.0,
           "moving_time": 2948.0
+        },
+        "2026-10-04": {
+          "activity_ids": [
+            "20445142520",
+            "20446432760",
+            "20447192283"
+          ],
+          "count": 3,
+          "distance": 27710.1,
+          "elevation_gain": 160.0,
+          "moving_time": 4092.0
         }
       },
       "Rowing": {
@@ -35115,7 +35153,7 @@
       }
     }
   },
-  "generated_at": "2026-10-04T10:31:28.409602+00:00",
+  "generated_at": "2026-10-04T15:38:13.136242+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/100675368",
   "repo": "JamesJacouris/git-sweaty",
