@@ -26703,15 +26703,15 @@
   },
   {
     "date": "2026-09-30",
-    "distance": 21693.1,
+    "distance": 21687.5,
     "elevation_gain": 170.0,
     "id": "20393026966",
     "moving_time": 2982.0,
     "name": "Afternoon Ride",
     "raw_activity_type": "Ride",
-    "raw_type": "Ride",
+    "raw_type": "GravelRide",
     "start_date_local": "2026-09-30T13:49:20Z",
-    "type": "Ride",
+    "type": "GravelRide",
     "year": 2026
   },
   {
