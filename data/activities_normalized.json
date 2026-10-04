@@ -26798,10 +26798,23 @@
     "elevation_gain": 383.0,
     "id": "20450706196",
     "moving_time": 7500.0,
-    "name": "Afternoon Ride",
+    "name": "London with Helen and Flacey",
     "raw_activity_type": "Ride",
     "raw_type": "Ride",
     "start_date_local": "2026-10-04T14:21:31Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-04",
+    "distance": 49452.5,
+    "elevation_gain": 426.0,
+    "id": "20453520990",
+    "moving_time": 7211.0,
+    "name": "Afternoon Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-10-04T14:27:09Z",
     "type": "Ride",
     "year": 2026
   }

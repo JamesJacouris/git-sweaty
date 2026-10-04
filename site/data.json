@@ -18552,10 +18552,19 @@
     {
       "date": "2026-10-04",
       "hour": 14,
-      "name": "Afternoon Ride",
+      "name": "London with Helen and Flacey",
       "subtype": "Ride",
       "type": "Ride",
       "url": "https://www.strava.com/activities/20450706196",
+      "year": 2026
+    },
+    {
+      "date": "2026-10-04",
+      "hour": 14,
+      "name": "Afternoon Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/20453520990",
       "year": 2026
     }
   ],
@@ -33153,12 +33162,13 @@
             "20445142520",
             "20446432760",
             "20447192283",
-            "20450706196"
+            "20450706196",
+            "20453520990"
           ],
-          "count": 4,
-          "distance": 78737.5,
-          "elevation_gain": 543.0,
-          "moving_time": 11592.0
+          "count": 5,
+          "distance": 128190.0,
+          "elevation_gain": 969.0,
+          "moving_time": 18803.0
         }
       },
       "Rowing": {
@@ -35163,7 +35173,7 @@
       }
     }
   },
-  "generated_at": "2026-10-04T18:59:13.442785+00:00",
+  "generated_at": "2026-10-04T22:15:59.073514+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/100675368",
   "repo": "JamesJacouris/git-sweaty",
