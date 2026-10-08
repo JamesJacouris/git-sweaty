@@ -26830,5 +26830,70 @@
     "start_date_local": "2026-10-05T17:52:26Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-10-05",
+    "distance": 7726.9,
+    "elevation_gain": 47.0,
+    "id": "20498550141",
+    "moving_time": 1175.0,
+    "name": "Evening Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-10-05T20:16:26Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-06",
+    "distance": 7068.6,
+    "elevation_gain": 0.0,
+    "id": "20498553902",
+    "moving_time": 4466.0,
+    "name": "Evening Football (Soccer)",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-10-06T18:14:20Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-07",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20498553861",
+    "moving_time": 3050.0,
+    "name": "Morning Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-10-07T06:59:25Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-08",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20498553889",
+    "moving_time": 1717.0,
+    "name": "Morning Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-10-08T06:44:01Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-08",
+    "distance": 17790.8,
+    "elevation_gain": 136.0,
+    "id": "20498882980",
+    "moving_time": 2458.0,
+    "name": "Morning Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-10-08T07:42:41Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]

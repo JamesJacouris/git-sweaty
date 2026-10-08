@@ -18575,6 +18575,51 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/20463823166",
       "year": 2026
+    },
+    {
+      "date": "2026-10-05",
+      "hour": 20,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/20498550141",
+      "year": 2026
+    },
+    {
+      "date": "2026-10-06",
+      "hour": 18,
+      "name": "Evening Football (Soccer)",
+      "subtype": "Workout",
+      "type": "Workout",
+      "url": "https://www.strava.com/activities/20498553902",
+      "year": 2026
+    },
+    {
+      "date": "2026-10-07",
+      "hour": 6,
+      "name": "Morning Weight Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/20498553861",
+      "year": 2026
+    },
+    {
+      "date": "2026-10-08",
+      "hour": 6,
+      "name": "Morning Weight Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/20498553889",
+      "year": 2026
+    },
+    {
+      "date": "2026-10-08",
+      "hour": 7,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/20498882980",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -33181,12 +33226,22 @@
         },
         "2026-10-05": {
           "activity_ids": [
-            "20463823166"
+            "20463823166",
+            "20498550141"
+          ],
+          "count": 2,
+          "distance": 20447.699999999997,
+          "elevation_gain": 128.0,
+          "moving_time": 3130.0
+        },
+        "2026-10-08": {
+          "activity_ids": [
+            "20498882980"
           ],
           "count": 1,
-          "distance": 12720.8,
-          "elevation_gain": 81.0,
-          "moving_time": 1955.0
+          "distance": 17790.8,
+          "elevation_gain": 136.0,
+          "moving_time": 2458.0
         }
       },
       "Rowing": {
@@ -34632,6 +34687,24 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 2852.0
+        },
+        "2026-10-07": {
+          "activity_ids": [
+            "20498553861"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3050.0
+        },
+        "2026-10-08": {
+          "activity_ids": [
+            "20498553889"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1717.0
         }
       },
       "Workout": {
@@ -34662,6 +34735,15 @@
           "distance": 832.8,
           "elevation_gain": 46.0,
           "moving_time": 361.0
+        },
+        "2026-10-06": {
+          "activity_ids": [
+            "20498553902"
+          ],
+          "count": 1,
+          "distance": 7068.6,
+          "elevation_gain": 0.0,
+          "moving_time": 4466.0
         }
       },
       "Yoga": {
@@ -35191,7 +35273,7 @@
       }
     }
   },
-  "generated_at": "2026-10-08T02:25:40.053175+00:00",
+  "generated_at": "2026-10-08T09:52:36.871094+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/100675368",
   "repo": "JamesJacouris/git-sweaty",
