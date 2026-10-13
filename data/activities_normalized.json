@@ -26986,5 +26986,31 @@
     "start_date_local": "2026-10-12T18:08:46Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-10-13",
+    "distance": 17923.9,
+    "elevation_gain": 67.0,
+    "id": "20570874530",
+    "moving_time": 2288.0,
+    "name": "Commute turned group ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-10-13T07:52:01Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-13",
+    "distance": 17583.6,
+    "elevation_gain": 58.0,
+    "id": "20570886980",
+    "moving_time": 2080.0,
+    "name": "Holy tailwind commute",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-10-13T17:45:20Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
